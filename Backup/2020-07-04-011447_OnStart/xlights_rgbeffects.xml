@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" DisplayAs="Horiz Matrix" LayoutGroup="Default" name="Airship Matrix" parm1="8" parm2="8" WorldPosX="379.4177" WorldPosY="617.9347" WorldPosZ="0.0000" ScaleX="3.9574" ScaleY="3.9344" ScaleZ="0.0000" RotateX="0" RotateY="0" RotateZ="0" versionNumber="3" StartChannel="!APix16 Out #08 Airship Matrix Projector:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" name="Tree Star- Big Pixel Tree Star Center" WorldPosX="-217.3938" WorldPosY="171.6697" WorldPosZ="434.0446" X2="0.000000" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="&gt;Tree Star- Big Pixel Tree Star Points:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" CustomModel=",,,,,,,,,22,,,,,21,,,,,,17,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,16,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,23,,,,,24,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,14,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,15,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,20,,,,,,,,18,,,,,,,,,,,;,,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,19,,,,,,,,,,,,,,11,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,25,,,,,,,,,,,,,,,,,,,;28,,,,,,,,,,,,,,,,,,,,13,,,,,,,,,,,,;,,,,26,,,,,30,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,12,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,,,,10;,,,,,,,,,,,,,31,,,,,,,7,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,29,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,36,,,,,,,,6,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,33,,,,,32,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,2,,,,,5,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,34,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,;,,,,,,,,,,,,35,,,,,,3,,,,,,,,,,,,,," parm1="33" parm2="36" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="36" PixelType="12mm square" PixelSpacing="" name="Snowflake 3 Boscoyo 16 3 prong" LayoutGroup="Default" WorldPosX="-17.5613" WorldPosY="176.4448" WorldPosZ="97.4045" ScaleX="0.5000" ScaleY="0.5000" ScaleZ="1.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Snowflake 2 Boscoyo 16 2 prong:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm1="1" parm3="1" StringType="3 Channel RGB" parm2="100" LayoutGroup="All Previews" PixelSize="2" name="Podium" WorldPosX="-90.5121" WorldPosY="755.5719" WorldPosZ="380.1390" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="5" PointData="0.000000,-720.000000,220.000000,30.000000,-720.000000,220.000000,30.000000,-740.000000,220.000000,0.000000,-740.000000,220.000000,0.000000,-720.000000,220.000000" cPointData="" Locked="1" versionNumber="3" StartChannel="147">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" LayoutGroup="Default" CustomModel=",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,11,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,10,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,128,,,9,,89,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,127,,,,,,,,,90,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,126,,,,,,,8,,,,,,,91,,,,,,,,,,,,,,,,;,,,,,,,,78,,,,,,125,,,,,,,,,,,,,,,,,,,92,,,,,,,12,,,,,,,;,,,,,,,,,79,,,124,,,,,,,,,,,,7,,,,,,,,,,,93,,,13,,,,,,,,,;,,,,,,,,,,,80,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,,,,,14,,,,,,,,,,;,,,,,,,,,123,,,81,,,,,,,,,,,,,,,,,,,,,,,15,,,94,,,,,,,,,;,,,,,,,,,,,,,82,,,,,,,,,,,5,,,,,,,,,,16,,,,,,,,,,,,,;,,,,,,,,122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95,,,,,,,,;,,,,,,,,,,,,,,,83,,,,,,,,,4,,,,,,,,17,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,84,,,,,,,,,,,,,,,18,,,,,,,,,,,,,,,,;,,,,,,,121,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,96,,,,,,;,,,,,,,,,,,,,,,,,,85,,,,,,,,,,,19,,,,,,,,,,,,,,,,,,;,,,,,,120,,,,,,,,,,,,,86,,,,,2,,,,20,,,,,,,,,,,,,97,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,119,,,,,,,,,,,,,,,,87,,,1,,21,,,,,,,,,,,,,,,,98,,,,,;,,,,,,,,,,,,,,,,,,,,,,88,,,22,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,77,,76,,75,,74,,73,,72,,71,,70,,,69,,68,,67,,,,23,,24,,25,,26,,27,,28,,29,,30,,31,,32,,33,;,,,,,,,,,,,,,,,,,,,,,,66,,,44,,,,,,,,,,,,,,,,,,,,,,;,,,,,118,,,,,,,,,,,,,,,,65,,,45,,,43,,,,,,,,,,,,,,,99,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,117,,,,,,,,,,,,,64,,,,,46,,,,42,,,,,,,,,,,,,100,,,,,,;,,,,,,,,,,,,,,,,,,63,,,,,,,,,,,41,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,47,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,116,,,,,,,,,,62,,,,,,,,,,,,,,,40,,,,,,,,,,101,,,,,,;,,,,,,,,,,,,,,,61,,,,,,,,,48,,,,,,,,39,,,,,,,,,,,,,,,;,,,,,,,,115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,,,,,,,;,,,,,,,,,,,,,60,,,,,,,,,,,49,,,,,,,,,,38,,,,,,,,,,,,,;,,,,,,,,,114,,,59,,,,,,,,,,,,,,,,,,,,,,,37,,,103,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,50,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,58,,,,,,,,,,,,,,,,,,,,,,,,,,36,,,,,,,,,,;,,,,,,,,,57,,,113,,,,,,,,,,,,51,,,,,,,,,,,104,,,35,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,105,,,,,,,34,,,,,,,;,,,,,,,,56,,,,,,112,,,,,,,,,,52,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,111,,110,,,,,,,,,107,,,106,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,109,,,53,,108,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,54,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,55,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," parm1="48" parm2="48" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="" PixelType="" PixelSpacing="" name="Wheel of Dharma" WorldPosX="-437.8973" WorldPosY="25.0000" WorldPosZ="99.6823" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="38.1814" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="!APix16 Out #06 Star of David and Wheel of Dharma:1">
+      <ControllerConnection/>
+      <subModel name="Arm1" layout="horizontal" type="ranges" line0="" line1="1-11">
+        <ControllerConnection/>
+      </subModel>
+      <subModel name="Arm2" layout="horizontal" type="ranges" line0="22-12">
+        <ControllerConnection/>
+      </subModel>
+      <subModel name="Arm3" layout="horizontal" type="ranges" line0="23-33">
+        <ControllerConnection/>
+      </subModel>
+      <subModel name="Arm4" layout="horizontal" type="ranges" line0="44-34">
+        <ControllerConnection/>
+      </subModel>
+      <subModel name="Arm5" layout="horizontal" type="ranges" line0="45-55">
+        <ControllerConnection/>
+      </subModel>
+      <subModel name="Arm6" layout="horizontal" type="ranges" line0="66-56">
+        <ControllerConnection/>
+      </subModel>
+      <subModel name="Arm7" layout="horizontal" type="ranges" line0="67-77">
+        <ControllerConnection/>
+      </subModel>
+      <subModel name="Arm8" layout="horizontal" type="ranges" line0="88-78">
+        <ControllerConnection/>
+      </subModel>
+      <subModel name="Ring" layout="horizontal" type="ranges" line0="124-128" line1="80" line2="119-123" line3="75" line4="114-118" line5="58" line6="109-113" line7="53" line8="104-108" line9="36" line10="99-103" line11="31" line12="94-98" line13="14" line14="89-93" line15="9">
+        <ControllerConnection/>
+      </subModel>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" LayoutGroup="Default" name="aGround" Image="/home/wizard/!ActiveDocuments/xLights/2019/WizLights/Images/Betty'sHouseOverhead.png" OffBrightness="20" Active="1" CustomColor="#000000" StringType="Single Color Custom" WorldPosX="0.0000" WorldPosY="-5.0000" WorldPosZ="170.0000" ScaleX="2000.0000" ScaleY="1600.0000" ScaleZ="1.0000" RotateX="88" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Security Lights (W):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="C:\Users\Wizard\!ActiveDocuments\xLights\2019\WizLights\Images\SwirlyColoredDots2.png" OffBrightness="0" name="Swirlies- Driveway (RGB)" WorldPosX="400.4801" WorldPosY="1.0400" WorldPosZ="319.7249" ScaleX="150.0000" ScaleY="150.0000" ScaleZ="0.0000" RotateX="-90" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="204">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="C:\Users\Wizard\!ActiveDocuments\xLights\2019\WizLights\Images\ColoredStars.png" OffBrightness="0" name="Swirlies Manger Stars [U02.079 L7.15] (RWB)" WorldPosX="400.5001" WorldPosY="1.0200" WorldPosZ="504.6670" ScaleX="150.0000" ScaleY="150.0000" ScaleZ="0.0000" RotateX="-90" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="207">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" OffBrightness="0" Image="/home/wizard/!ActiveDocuments/xLights/2019/WizLights/Images/MoreSwirlingDotsYel.png" name="Swirlies- Pine (GO)" WorldPosX="500.0000" WorldPosY="170.0000" WorldPosZ="650.0000" ScaleX="87.8491" ScaleY="88.9954" ScaleZ="20.0000" RotateX="0" RotateY="-90" RotateZ="0" Locked="1" versionNumber="3" StartChannel="205">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#ffa500" StringType="Single Color Custom" parm2="200" TreeSpiralRotations="13.000000" LayoutGroup="Bushes" name="Bushes 2.3 {L} Low (O)" WorldPosX="-339.9994" WorldPosY="4.7741" WorldPosZ="183.1994" ScaleX="0.0599" ScaleY="0.1736" ScaleZ="0.1118" RotateX="0" RotateY="0" RotateZ="-90" Locked="1" versionNumber="3" StartChannel="&gt;Bushes 2.2 {L} (W):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#f96d86" StringType="Single Color Red" parm2="100" TreeSpiralRotations="4.000000" LayoutGroup="Odddballs" name="Mailbox- Real (O)" WorldPosX="34.6002" WorldPosY="16.2681" WorldPosZ="564.4668" ScaleX="0.4066" ScaleY="0.0833" ScaleZ="0.3528" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="111">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/!ActiveDocuments/xLights/2019/WizLights/Images/LampPost.png" OffBrightness="30" name="Lamp Posts (Y)" WorldPosX="-39.4251" WorldPosY="32.7227" WorldPosZ="185.5860" ScaleX="17.6136" ScaleY="32.0125" ScaleZ="1.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="112">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/!ActiveDocuments/xLights/2019/WizLights/Images/Mailbox.png" OffBrightness="30" name="Mailbox- MiniWicker (W)" WorldPosX="63.6960" WorldPosY="30.7577" WorldPosZ="175.7438" ScaleX="17.6136" ScaleY="32.0125" ScaleZ="1.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Mailbox- Real (O):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/!ActiveDocuments/xLights/2019/WizLights/Images/Mailbox.png" OffBrightness="30" name="Mailbox- Graphic" WorldPosX="33.9210" WorldPosY="29.2018" WorldPosZ="576.5423" ScaleX="30.5056" ScaleY="50.1744" ScaleZ="1.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Mailbox- Real (O):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="/home/wizard/!ActiveDocuments/xLights/2019/WizLights/Images/RedGreenLaserDots.png" OffBrightness="0" name="Laser- Street (RG)" WorldPosX="206.7732" WorldPosY="1.0000" WorldPosZ="504.6670" ScaleX="150.0000" ScaleY="150.0000" ScaleZ="0.0000" RotateX="-90" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="199">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" name="Santa in the Window" Image="/home/wizard/!ActiveDocuments/xLights/2019/WizLights/Images/SantaOnBlack.png" OffBrightness="30" LayoutGroup="All Previews" WorldPosX="-193.0000" WorldPosY="54.0000" WorldPosZ="59.0000" ScaleX="50.0000" ScaleY="80.0000" ScaleZ="1.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Master Power Low:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="20" Transparency="0" parm3="1" parm1="1" parm2="1" CustomColor="#808080" StringType="Single Color Custom" LayoutGroup="!All Lights" name="Master Power High" WorldPosX="180.0000" WorldPosY="-20.0000" WorldPosZ="75.0000" X2="19.146729" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="396">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="1" Transparency="0" parm3="1" parm1="1" parm2="100" CustomColor="#3f0000" StringType="Single Color Custom" LayoutGroup="!All Lights" name="Streetlight Laser" WorldPosX="350.8730" WorldPosY="189.1070" WorldPosZ="1357.1492" X2="-112.385315" Y2="0.900208" Z2="-1475.514893" Locked="1" versionNumber="3" StartChannel="183">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="20" Transparency="0" parm3="1" parm1="1" parm2="1" CustomColor="#808080" StringType="Single Color Custom" LayoutGroup="!All Lights" name="Security Lights (W)" WorldPosX="596.7409" WorldPosY="282.7289" WorldPosZ="539.3535" X2="19.146729" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="399">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/SnowfallSm.png" OffBrightness="0" name="Snow Lake (W)" WorldPosX="-43.2471" WorldPosY="5.0820" WorldPosZ="283.6690" ScaleX="153.6674" ScaleY="100.0000" ScaleZ="0.0000" RotateX="-95" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="395">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Singers" StringType="Single Color Blue" name="Rainbow Rope Arch 5 (B)" WorldPosX="89.2216" WorldPosY="14.9977" WorldPosZ="85.3627" ScaleX="0.5360" ScaleY="0.5320" ScaleZ="1.0000" NumPoints="4" PointData="0.000000,-5.500000,-0.850000,0.000000,140.000000,-0.850000,0.000000,140.000000,50.000000,0.000000,-5.500000,50.000000" cPointData="1,5.596986,204.975342,7.412201,0.574283,204.416672,41.744217," Locked="1" versionNumber="3" StartChannel="&gt;Rainbow Rope Arch 4 (G):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Singers" StringType="Single Color Green" name="Rainbow Rope Arch 4 (G)" WorldPosX="85.6683" WorldPosY="14.9977" WorldPosZ="85.3627" ScaleX="0.5360" ScaleY="0.5320" ScaleZ="1.0000" NumPoints="4" PointData="0.000000,-5.500000,-0.850000,0.000000,140.000000,-0.850000,0.000000,140.000000,50.000000,0.000000,-5.500000,50.000000" cPointData="1,5.596986,204.975342,7.412201,0.574283,204.416672,41.744217," Locked="1" versionNumber="3" StartChannel="&gt;Rainbow Rope Arch 3 (Y):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Singers" CustomColor="#ffff00" StringType="Single Color Custom" name="Rainbow Rope Arch 3 (Y)" WorldPosX="81.9033" WorldPosY="14.9977" WorldPosZ="85.3627" ScaleX="0.5360" ScaleY="0.5320" ScaleZ="1.0000" NumPoints="4" PointData="0.000000,-5.500000,-0.850000,0.000000,140.000000,-0.850000,0.000000,140.000000,50.000000,0.000000,-5.500000,50.000000" cPointData="1,5.596986,204.975342,7.412201,0.574283,204.416672,41.744217," Locked="1" versionNumber="3" StartChannel="&gt;Rainbow Rope Arch 2 (O):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Singers" CustomColor="#ff6000" StringType="Single Color Custom" name="Rainbow Rope Arch 2 (O)" WorldPosX="79.4741" WorldPosY="14.9977" WorldPosZ="85.3627" ScaleX="0.5360" ScaleY="0.5320" ScaleZ="1.0000" NumPoints="4" PointData="0.000000,-5.500000,-0.850000,0.000000,140.000000,-0.850000,0.000000,140.000000,50.000000,0.000000,-5.500000,50.000000" cPointData="1,5.596986,204.975342,7.412201,0.574283,204.416672,41.744217," Locked="1" versionNumber="3" StartChannel="&gt;Rainbow Rope Arch 1 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="R" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#00ffff" StringType="Single Color Red" parm2="100" TreeSpiralRotations="7.000000" LayoutGroup="Bushes" name="Bushes 1 {S} Rainbow 1 (R)" WorldPosX="-393.4885" WorldPosY="13.3674" WorldPosZ="-6.7196" ScaleX="0.0509" ScaleY="0.0589" ScaleZ="0.1173" RotateX="-90" RotateY="45" RotateZ="0" Locked="1" versionNumber="3" StartChannel="71">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#ffa500" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="7.000000" LayoutGroup="Bushes" name="Bushes 1 {S} Rainbow 2 (O)" WorldPosX="-400.0451" WorldPosY="13.3674" WorldPosZ="13.4615" ScaleX="0.0509" ScaleY="0.0589" ScaleZ="0.1173" RotateX="-90" RotateY="45" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Bushes 1 {S} Rainbow 1 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#00ffff" StringType="Single Color Green" parm2="100" TreeSpiralRotations="7.000000" LayoutGroup="Bushes" name="Bushes 1 {S} Rainbow 3 (G)" WorldPosX="-400.0451" WorldPosY="13.3674" WorldPosZ="33.6495" ScaleX="0.0509" ScaleY="0.0589" ScaleZ="0.1173" RotateX="-90" RotateY="45" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Bushes 1 {S} Rainbow 1 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#00ffff" StringType="Single Color Blue" parm2="100" TreeSpiralRotations="7.000000" LayoutGroup="Bushes" name="Bushes 1 {S} Rainbow 4 (B)" WorldPosX="-400.0451" WorldPosY="13.3674" WorldPosZ="52.7076" ScaleX="0.0509" ScaleY="0.0589" ScaleZ="0.1173" RotateX="-90" RotateY="45" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Bushes 1 {S} Rainbow 1 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#ff00ff" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="7.000000" LayoutGroup="Bushes" name="Bushes 1 {S} Rainbow 5 (V)" WorldPosX="-400.0251" WorldPosY="13.3474" WorldPosZ="71.0324" ScaleX="0.0509" ScaleY="0.0589" ScaleZ="0.1173" RotateX="-90" RotateY="45" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Bushes 1 {S} Rainbow 1 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#ea0ecd" StringType="Single Color Custom" parm2="300" TreeSpiralRotations="20.000000" LayoutGroup="Bushes" name="Bushes 5.5 {R} C9 (V)" WorldPosX="525.0000" WorldPosY="50.0000" WorldPosZ="300.0000" ScaleX="0.0330" ScaleY="0.6660" ScaleZ="0.2000" RotateX="-90" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Bushes 5.4 {R} C9 (W):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" DisplayAs="Horiz Matrix" LayoutGroup="Bushes" StringType="Single Color Red" parm1="1" parm3="4" parm2="450" name="Bushes 3.1 {C} M5 (R)" WorldPosX="-48.0000" WorldPosY="26.0000" WorldPosZ="145.0679" ScaleX="3.0000" ScaleY="8.0000" ScaleZ="1.0000" RotateX="-120" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="81">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Cane &amp; Pixel Fence" parm1="2" parm2="16" PixelSize="5" Arc="120" name="Fence 6 Right Driveway" WorldPosX="172.3448" WorldPosY="51.0000" WorldPosZ="459.3524" X2="2.684006" Y2="0.000000" Z2="-96.000000" RotateX="0" Height="1.000000" Angle="180" Locked="1" versionNumber="3" StartChannel="&gt;Fence 5 Diagonal:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Cane &amp; Pixel Fence" parm1="3" parm2="16" PixelSize="5" Arc="120" name="Fence 5 Diagonal" WorldPosX="0.0000" WorldPosY="51.0000" WorldPosZ="583.8677" X2="171.458038" Y2="0.000000" Z2="-124.812073" RotateX="0" Height="0.700000" Angle="180" Locked="1" versionNumber="3" StartChannel="&gt;Fence 4 Front:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" parm2="16" PixelSize="5" Arc="120" name="Fence 3 Front Left Corner" WorldPosX="-548.7349" WorldPosY="51.0000" WorldPosZ="575.7557" X2="68.734924" Y2="0.000000" Z2="7.295593" RotateX="0" Height="0.660000" Angle="180" Locked="1" versionNumber="3" StartChannel="&gt;Fence 2 Left Front Corner:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Cane &amp; Pixel Fence" parm1="10" parm2="16" PixelSize="5" Arc="120" name="Fence 4 Front" WorldPosX="-480.0000" WorldPosY="51.0000" WorldPosZ="583.3523" X2="480.000000" Y2="0.000000" Z2="0.000000" RotateX="0" Height="1.000000" Angle="180" Locked="1" versionNumber="3" StartChannel="&gt;Fence 3 Front Left Corner:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" parm2="16" PixelSize="5" Arc="120" name="Fence 2 Left Front Corner" WorldPosX="-557.0000" WorldPosY="51.0000" WorldPosZ="507.3524" X2="8.733887" Y2="0.000000" Z2="68.560181" RotateX="0" Height="0.660000" Angle="180" Locked="1" versionNumber="3" StartChannel="&gt;Fence 1 LeftSide:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Green" name="CandyCane22-G2" PixelSize="4" WorldPosX="144.0000" WorldPosY="0.0000" WorldPosZ="361.4340" X2="288.000000" Y2="0.000000" Z2="0.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane02-G2:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" name="CandyCane21-R1" PixelSize="4" WorldPosX="144.0000" WorldPosY="0.0000" WorldPosZ="409.4340" X2="288.000000" Y2="0.000000" Z2="0.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane01-R1:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Green" name="CandyCane20-G4" PixelSize="4" WorldPosX="144.0000" WorldPosY="0.0000" WorldPosZ="457.4339" X2="288.000000" Y2="0.000000" Z2="0.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane04-G4:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" name="CandyCane19-R3" PixelSize="4" WorldPosX="95.8434" WorldPosY="0.0000" WorldPosZ="478.8899" X2="218.469757" Y2="0.000000" Z2="189.188232" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane03-R3:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Green" name="CandyCane18-G2" PixelSize="4" WorldPosX="36.9747" WorldPosY="0.0000" WorldPosZ="517.8896" X2="185.005554" Y2="0.000000" Z2="222.023376" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane02-G2:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" name="CandyCane17-R1" PixelSize="4" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane01-R1:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Green" name="CandyCane16-G4" PixelSize="4" WorldPosX="-48.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane04-G4:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" name="CandyCane15-R3" PixelSize="4" WorldPosX="-96.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.108892" Angle="1" Locked="1" versionNumber="3" StartChannel="@CandyCane03-R3:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Green" name="CandyCane14-G2" PixelSize="4" WorldPosX="-144.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane02-G2:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" name="CandyCane13-R1" PixelSize="4" WorldPosX="-192.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane01-R1:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Green" name="CandyCane12-G4" PixelSize="4" WorldPosX="-240.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane04-G4:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" name="CandyCane11-R3" PixelSize="4" WorldPosX="-288.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane03-R3:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Green" name="CandyCane10-G2" PixelSize="4" WorldPosX="-336.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane02-G2:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" name="CandyCane09-R1" PixelSize="4" WorldPosX="-384.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane01-R1:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Green" name="CandyCane08-G4" PixelSize="4" WorldPosX="-432.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane04-G4:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" name="CandyCane07-R3" PixelSize="4" WorldPosX="-480.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane03-R3:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Green" name="CandyCane06-G2" PixelSize="4" WorldPosX="-528.0000" WorldPosY="0.0000" WorldPosZ="553.4338" X2="-204.000000" Y2="0.000000" Z2="204.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane02-G2:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" name="CandyCane05-R1" PixelSize="4" WorldPosX="-528.0000" WorldPosY="0.0000" WorldPosZ="505.4339" X2="-288.000000" Y2="0.000000" Z2="0.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="@CandyCane01-R1:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Green" name="CandyCane04-G4" PixelSize="4" WorldPosX="-528.0000" WorldPosY="0.0000" WorldPosZ="457.4339" X2="-288.000000" Y2="0.000000" Z2="0.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="&gt;CandyCane03-R3:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" name="CandyCane03-R3" PixelSize="4" WorldPosX="-528.0000" WorldPosY="0.0000" WorldPosZ="409.4340" X2="-288.000000" Y2="0.000000" Z2="0.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="&gt;CandyCane02-G2:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Green" name="CandyCane02-G2" PixelSize="4" WorldPosX="-528.0000" WorldPosY="0.0000" WorldPosZ="361.4340" X2="-288.000000" Y2="0.000000" Z2="0.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="&gt;CandyCane01-R1:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Singers" StringType="Single Color Red" name="Rainbow Rope Arch 1 (R)" WorldPosX="75.7764" WorldPosY="14.9777" WorldPosZ="85.3627" ScaleX="0.5360" ScaleY="0.5320" ScaleZ="1.0000" NumPoints="4" PointData="0.000000,-5.500000,-0.850000,0.000000,140.000000,-0.850000,0.000000,140.000000,50.000000,0.000000,-5.500000,50.000000" cPointData="1,5.596986,204.975342,7.412201,0.574283,204.416672,41.744217," Locked="1" versionNumber="3" StartChannel="101">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Eaves" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Snowflakes.png" OffBrightness="0" name="Swirlies- Snowflakes {L} (WB)" WorldPosX="23.8260" WorldPosY="70.0000" WorldPosZ="55.0650" ScaleX="70.0000" ScaleY="70.0000" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="107">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Eaves" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/SnowfallSm.png" OffBrightness="0" name="Snowfall Spots (W)" WorldPosX="-43.0998" WorldPosY="84.4513" WorldPosZ="81.8886" ScaleX="152.1724" ScaleY="159.9292" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="400">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Star" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="8" StringType="Single Color White" LayoutGroup="Odddballs" name="Star of Bethlehem (W)" WorldPosX="535.7269" WorldPosY="154.1288" WorldPosZ="587.1334" ScaleX="0.7337" ScaleY="1.3483" ScaleZ="0.0000" RotateX="0" RotateY="90" RotateZ="0" Locked="1" versionNumber="3" StartChannel="202">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Circle" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" InsideOut="0" parm3="20" StringType="Single Color Green" parm2="15" LayoutGroup="Eaves" name="Wreath 6 Leaves (G)" WorldPosX="-47.0000" WorldPosY="137.0000" WorldPosZ="84.8690" ScaleX="0.9000" ScaleY="0.9000" ScaleZ="0.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Wreath 1 Leaves (G):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Circle" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" InsideOut="0" parm3="20" StringType="Single Color Red" parm2="18" LayoutGroup="Eaves" name="Wreath 5 Berries (R)" WorldPosX="-47.0000" WorldPosY="137.0000" WorldPosZ="85.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="0.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Wreath 2 Berries (R):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Circle" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" InsideOut="0" parm3="20" StringType="Single Color Green" parm2="21" LayoutGroup="Eaves" name="Wreath 4 Leaves (G)" WorldPosX="-47.0000" WorldPosY="137.0000" WorldPosZ="85.0000" ScaleX="1.1000" ScaleY="1.1000" ScaleZ="0.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Wreath 1 Leaves (G):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Circle" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" InsideOut="0" parm3="20" StringType="Single Color Green" parm2="24" LayoutGroup="Eaves" name="Wreath 3 Leaves (G)" WorldPosX="-47.0000" WorldPosY="137.0000" WorldPosZ="85.0000" ScaleX="1.2000" ScaleY="1.2000" ScaleZ="0.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Wreath 1 Leaves (G):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Circle" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" InsideOut="0" parm3="20" StringType="Single Color Red" parm2="27" LayoutGroup="Eaves" name="Wreath 2 Berries (R)" WorldPosX="-47.0000" WorldPosY="137.0000" WorldPosZ="85.0000" ScaleX="1.3000" ScaleY="1.3000" ScaleZ="0.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Wreath 1 Leaves (G):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Circle" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" InsideOut="0" parm3="20" StringType="Single Color Green" parm2="30" LayoutGroup="Eaves" name="Wreath 1 Leaves (G)" WorldPosX="-47.0000" WorldPosY="137.0000" WorldPosZ="83.0000" ScaleX="1.4000" ScaleY="1.4000" ScaleZ="0.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="397">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Menorah.png" OffBrightness="30" name="Menorah (B)" WorldPosX="-349.5858" WorldPosY="24.7678" WorldPosZ="257.4095" ScaleX="40.0000" ScaleY="40.0000" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="80">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/YuleLog.png" OffBrightness="30" name="Yule Log (O)" WorldPosX="-465.4861" WorldPosY="17.8338" WorldPosZ="413.9102" ScaleX="53.5316" ScaleY="31.9800" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="54">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="6" TreeBottomTopRatio="10.000000" parm1="1" DisplayAs="Tree 120" StringType="3 Channel RGB" parm2="300" LayoutGroup="Odddballs" name="Festivus Pole Flood (RGB)" WorldPosX="-494.2932" WorldPosY="61.6338" WorldPosZ="510.8647" ScaleX="0.0720" ScaleY="0.8267" ScaleZ="0.0720" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="129">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" name="HappyHolidays" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/HappyHolidays.png" OffBrightness="0" WorldPosX="190.2531" WorldPosY="72.9920" WorldPosZ="74.4585" ScaleX="60.5316" ScaleY="26.9398" ScaleZ="0.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Countdown Timer (B):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Deer.png" OffBrightness="30" name="Deer 2" WorldPosX="9.5600" WorldPosY="28.9744" WorldPosZ="243.8641" ScaleX="60.5917" ScaleY="59.9999" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Snow Lake (W):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Countdown.png" OffBrightness="0" name="Countdown Timer (B)" WorldPosX="31.6453" WorldPosY="30.1138" WorldPosZ="411.1519" ScaleX="34.5516" ScaleY="41.9598" ScaleZ="0.0000" RotateX="0" RotateY="15" RotateZ="0" Locked="1" versionNumber="3" StartChannel="109">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Nativity.png" OffBrightness="30" name="Manger Flood {L} (RGB)" WorldPosX="423.5351" WorldPosY="36.2345" WorldPosZ="435.8732" ScaleX="60.5917" ScaleY="59.9999" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="132">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Forest" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Presents.png" OffBrightness="0" name="Presents (M)" WorldPosX="-219.2608" WorldPosY="20.0000" WorldPosZ="461.0100" ScaleX="40.5516" ScaleY="30.9598" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="55">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Singers" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Snowman.png" OffBrightness="30" name="Singers- Snowman (New) (W)" WorldPosX="-350.0000" WorldPosY="33.9355" WorldPosZ="349.8791" ScaleX="44.5516" ScaleY="55.0400" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="78">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Deer.png" OffBrightness="30" name="Deer 1" WorldPosX="-83.9069" WorldPosY="31.5339" WorldPosZ="243.5374" ScaleX="60.5917" ScaleY="59.9999" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Snow Lake (W):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Singers" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Carollers.png" OffBrightness="30" name="Singers- Carolers Flood (RGB)" WorldPosX="13.4845" WorldPosY="33.0000" WorldPosZ="178.1648" ScaleX="60.5917" ScaleY="59.9999" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="138">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Singers" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Penguins.png" OffBrightness="30" name="Singers- Penguins" WorldPosX="-432.5897" WorldPosY="26.6471" WorldPosZ="324.5732" ScaleX="70.6849" ScaleY="44.6010" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="59">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Singers" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Snowmen.png" OffBrightness="30" name="Singers- Snow Globe (Ww)" WorldPosX="-449.6899" WorldPosY="55.0000" WorldPosZ="317.3643" ScaleX="89.0000" ScaleY="93.0000" ScaleZ="0.0000" RotateX="0" RotateY="179" RotateZ="0" Locked="1" versionNumber="3" StartChannel="58">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="/home/wizard/!ActiveDocuments/xLights/2019/WizLights/Images/LaserSwirls.png" OffBrightness="0" name="Laser- Driveway (RG)" WorldPosX="411.3832" WorldPosY="1.0000" WorldPosZ="705.0408" ScaleX="200.0000" ScaleY="200.0000" ScaleZ="0.0000" RotateX="-90" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Laser- Street (RG):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/DiscoBall.png" OffBrightness="0" name="Disco Balls {R} (M)" WorldPosX="157.1917" WorldPosY="148.0000" WorldPosZ="0.0000" ScaleX="73.0200" ScaleY="57.5592" ScaleZ="0.0000" RotateX="70" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Disco Balls {L} (M):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/DiscoBall.png" OffBrightness="0" name="Disco Balls {L} (M)" WorldPosX="-233.7940" WorldPosY="148.0000" WorldPosZ="0.0000" ScaleX="73.0200" ScaleY="57.5592" ScaleZ="0.0000" RotateX="70" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="392">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="/home/wizard/!ActiveDocuments/xLights/2019/WizLights/Images/SwirlyColoredDots3.png" OffBrightness="0" name="Swirlies- Oak (RGB)" WorldPosX="531.2036" WorldPosY="173.2892" WorldPosZ="374.1749" ScaleX="87.8491" ScaleY="88.9954" ScaleZ="0.0000" RotateX="0" RotateY="-90" RotateZ="0" Locked="1" versionNumber="3" StartChannel="206">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/UFO_light.png" OffBrightness="0" name="UFOs 3 {R}{R} (RGB)" WorldPosX="240.2871" WorldPosY="60.0000" WorldPosZ="90.0000" ScaleX="22.8690" ScaleY="21.5392" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@UFOs 3 {R}{L} (RGB):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/UFO_light.png" OffBrightness="0" name="UFOs 3 {R}{L} (RGB)" WorldPosX="150.1145" WorldPosY="60.0000" WorldPosZ="90.0000" ScaleX="22.8690" ScaleY="21.5392" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="394">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/UFO_light.png" OffBrightness="0" name="UFOs 1 {L}{R} (RGB)" WorldPosX="-251.9724" WorldPosY="60.0000" WorldPosZ="90.0000" ScaleX="22.8690" ScaleY="21.5392" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@UFOs 1 {L}{L} (RGB):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/UFO_light.png" OffBrightness="0" name="UFOs 1 {L}{L} (RGB)" WorldPosX="-353.7152" WorldPosY="60.0000" WorldPosZ="90.0000" ScaleX="22.8690" ScaleY="21.5392" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="75">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/UFO_light.png" OffBrightness="0" name="UFOs 2 {CT}{R} (RGB)" WorldPosX="-31.2079" WorldPosY="240.0000" WorldPosZ="90.0000" ScaleX="22.8690" ScaleY="21.5392" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@UFOs 2 {CT}{L} (RGB):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/UFO_light.png" OffBrightness="0" name="UFOs 2 {CT}{L} (RGB)" WorldPosX="-67.9570" WorldPosY="240.0000" WorldPosZ="90.0000" ScaleX="22.8690" ScaleY="21.5392" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="75">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#00ffff" StringType="Single Color White" parm2="300" TreeSpiralRotations="10.000000" LayoutGroup="Bushes" name="Bushes 4.2 {D} (W)" WorldPosX="288.0305" WorldPosY="60.0000" WorldPosZ="107.7470" ScaleX="0.1000" ScaleY="0.1000" ScaleZ="0.1000" RotateX="0" RotateY="90" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Bushes 4.1 {D} (Pink):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#f96d86" StringType="Single Color Custom" parm2="300" TreeSpiralRotations="10.000000" LayoutGroup="Bushes" name="Bushes 4.1 {D} (Pink)" WorldPosX="288.0305" WorldPosY="60.0000" WorldPosZ="107.7470" ScaleX="0.1000" ScaleY="0.1000" ScaleZ="0.1000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="390">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#00ffff" StringType="Single Color Custom" parm2="300" TreeSpiralRotations="20.000000" LayoutGroup="Bushes" name="Bushes 2.1 {L} (M)" WorldPosX="-309.2680" WorldPosY="32.7745" WorldPosZ="126.3009" ScaleX="0.1000" ScaleY="0.2000" ScaleZ="0.1000" RotateX="-90" RotateY="0" RotateZ="90" Locked="1" versionNumber="3" StartChannel="72">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ffd500" StringType="Single Color Custom" parm2="300" TreeSpiralRotations="14.000000" LayoutGroup="Forest" name="Tree- Big 1 (M)" WorldPosX="-220.3588" WorldPosY="80.0000" WorldPosZ="355.0086" ScaleX="0.1627" ScaleY="0.1735" ScaleZ="0.1627" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="49">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color Red" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tinsel 2 {R} (R)" WorldPosX="23.2017" WorldPosY="15.7599" WorldPosZ="390.8646" ScaleX="0.1162" ScaleY="0.0985" ScaleZ="0.1162" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tinsel 1 {L} (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#000000" StringType="RGB Nodes" parm2="300" TreeSpiralRotations="14.000000" LayoutGroup="Forest" name="Tree- Big Pixel " WorldPosX="-217.4081" WorldPosY="80.0000" WorldPosZ="436.3774" ScaleX="0.1627" ScaleY="0.1735" ScaleZ="0.1627" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="!APix16 Out #05 Big Pixel Tree and Star:1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color Blue" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Small {L} (B)" WorldPosX="-421.4567" WorldPosY="24.5144" WorldPosZ="205.4707" ScaleX="0.1162" ScaleY="0.0985" ScaleZ="0.1162" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="53">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color Red" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tinsel 1 {L} (R)" WorldPosX="-469.1707" WorldPosY="10.8425" WorldPosZ="385.9962" ScaleX="0.1162" ScaleY="0.0985" ScaleZ="0.1162" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="51">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Spiral 2 {F} (W)" WorldPosX="-231.9672" WorldPosY="43.7695" WorldPosZ="269.7657" ScaleX="0.2160" ScaleY="0.2633" ScaleZ="0.2160" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Spiral 1 {L} (W):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color White" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Spiral 3 {R} (W)" WorldPosX="-186.9188" WorldPosY="53.4218" WorldPosZ="226.0258" ScaleX="0.2160" ScaleY="0.2633" ScaleZ="0.2160" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Spiral 2 {F} (W):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color White" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Spiral 1 {L} (W)" WorldPosX="-283.2194" WorldPosY="42.8861" WorldPosZ="229.7206" ScaleX="0.2160" ScaleY="0.2633" ScaleZ="0.2160" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="65">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Spiral 4 {B} (G)" WorldPosX="-235.5528" WorldPosY="44.0075" WorldPosZ="194.7650" ScaleX="0.2160" ScaleY="0.2633" ScaleZ="0.2160" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Spiral 3 {R} (W):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 180" CustomColor="#ea6c16" StringType="Single Color White" parm2="300" TreeSpiralRotations="18.000000" LayoutGroup="Bushes" name="Bushes 2.2 {L} (W)" WorldPosX="-314.6212" WorldPosY="31.3491" WorldPosZ="123.6555" ScaleX="0.1000" ScaleY="0.2000" ScaleZ="0.1000" RotateX="0" RotateY="0" RotateZ="90" Locked="1" versionNumber="3" StartChannel="&gt;Bushes 2.1 {L} (M):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B8.2 {R} (W)" WorldPosX="8.1528" WorldPosY="40.0000" WorldPosZ="467.0291" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B8.1 {R} (V):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B7.2 (W)" WorldPosX="-36.7247" WorldPosY="40.0000" WorldPosZ="442.9832" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B7.1 (V):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B6.2 (W)" WorldPosX="-83.2367" WorldPosY="40.0000" WorldPosZ="420.0951" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B6.1 (V):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B5.2 {CR} (W)" WorldPosX="-133.1074" WorldPosY="40.0000" WorldPosZ="393.9694" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B5.1 {CR} (V):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B4.2 {CL} (W)" WorldPosX="-319.6089" WorldPosY="40.0000" WorldPosZ="395.4080" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B4.1 {CL} (V):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B3.2 (W)" WorldPosX="-364.5396" WorldPosY="40.0000" WorldPosZ="429.4767" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B3.1 (V):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B2.2 (W)" WorldPosX="-415.4529" WorldPosY="40.0000" WorldPosZ="449.6345" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B2.1 (V):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B8.1 {R} (V)" WorldPosX="8.1528" WorldPosY="40.0000" WorldPosZ="467.0291" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B7.1 (V):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B7.1 (V)" WorldPosX="-36.7247" WorldPosY="40.0000" WorldPosZ="442.9832" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B6.1 (V):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B6.1 (V)" WorldPosX="-83.2367" WorldPosY="40.0000" WorldPosZ="420.0951" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B5.1 {CR} (V):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B5.1 {CR} (V)" WorldPosX="-133.1074" WorldPosY="40.0000" WorldPosZ="393.9694" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B4.1 {CL} (V):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B4.1 {CL} (V)" WorldPosX="-319.6089" WorldPosY="40.0000" WorldPosZ="395.4080" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B3.1 (V):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B3.1 (V)" WorldPosX="-364.5396" WorldPosY="40.0000" WorldPosZ="429.4767" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B2.1 (V):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B2.1 (V)" WorldPosX="-415.4529" WorldPosY="40.0000" WorldPosZ="449.6345" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B1.1 {L} (V):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A4.4 {CL} (W)" WorldPosX="-271.7668" WorldPosY="40.0000" WorldPosZ="433.8182" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A4.1 {CL} (R):3">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="180.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Blue" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A4.3 {CL} (B)" WorldPosX="-271.7668" WorldPosY="40.0000" WorldPosZ="433.8182" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="1" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A4.1 {CL} (R):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Green" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A4.2 {CL} (G)" WorldPosX="-271.7668" WorldPosY="40.0000" WorldPosZ="433.8182" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A4.1 {CL} (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Red" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A4.1 {CL} (R)" WorldPosX="-271.7668" WorldPosY="40.0000" WorldPosZ="433.8182" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A3.1 (R):4">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ff00ff" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B1.1 {L} (V)" WorldPosX="-459.3657" WorldPosY="40.0000" WorldPosZ="474.5576" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="33">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato B1.2 {L} (W)" WorldPosX="-459.3657" WorldPosY="40.0000" WorldPosZ="474.5576" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato B1.1 {L} (V):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A8.4 {R} (W)" WorldPosX="-37.1690" WorldPosY="40.0000" WorldPosZ="509.9432" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A8.1 {R} (R):3">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A7.4 (W)" WorldPosX="-83.6005" WorldPosY="40.0000" WorldPosZ="486.7601" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A7.1 (R):3">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A6.4 (W)" WorldPosX="-133.3589" WorldPosY="40.0000" WorldPosZ="459.2751" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A6.1 (R):3">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A5.4 {CR} (W)" WorldPosX="-176.4980" WorldPosY="40.0000" WorldPosZ="436.3413" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A5.1 {CR} (R):3">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A3.4 (W)" WorldPosX="-320.0402" WorldPosY="40.0000" WorldPosZ="458.7086" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A3.1 (R):3">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Red" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A3.1 (R)" WorldPosX="-320.0402" WorldPosY="40.0000" WorldPosZ="458.7086" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A2.1 (R):4">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="180.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Blue" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A6.3 (B)" WorldPosX="-133.3589" WorldPosY="40.0000" WorldPosZ="459.2751" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="1" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A6.1 (R):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="180.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Blue" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A5.3 {CR} (B)" WorldPosX="-176.4980" WorldPosY="40.0000" WorldPosZ="436.3413" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="1" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A5.1 {CR} (R):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="180.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Blue" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A3.3 (B)" WorldPosX="-320.0402" WorldPosY="40.0000" WorldPosZ="458.7086" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="1" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A3.1 (R):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="180.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Blue" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A7.3 (B)" WorldPosX="-83.6005" WorldPosY="40.0000" WorldPosZ="486.7601" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="1" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A7.1 (R):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="180.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Blue" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A8.3 {R} (B)" WorldPosX="-37.1690" WorldPosY="40.0000" WorldPosZ="509.9432" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="1" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A8.1 {R} (R):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Green" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A3.2 (G)" WorldPosX="-320.0402" WorldPosY="40.0000" WorldPosZ="458.7086" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A3.1 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Green" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A5.2 {CR} (G)" WorldPosX="-176.4980" WorldPosY="40.0000" WorldPosZ="436.3413" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A5.1 {CR} (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Green" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A6.2 (G)" WorldPosX="-133.3589" WorldPosY="40.0000" WorldPosZ="459.2751" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A6.1 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Green" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A7.2 (G)" WorldPosX="-83.6005" WorldPosY="40.0000" WorldPosZ="486.7601" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A7.1 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Green" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A8.2 {R} (G)" WorldPosX="-37.1690" WorldPosY="40.0000" WorldPosZ="509.9432" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A8.1 {R} (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Red" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A5.1 {CR} (R)" WorldPosX="-176.4980" WorldPosY="40.0000" WorldPosZ="436.3413" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A4.1 {CL} (R):4">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Red" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A6.1 (R)" WorldPosX="-133.3589" WorldPosY="40.0000" WorldPosZ="459.2751" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A5.1 {CR} (R):4">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Red" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A7.1 (R)" WorldPosX="-83.6005" WorldPosY="40.0000" WorldPosZ="486.7601" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A6.1 (R):4">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Red" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A8.1 {R} (R)" WorldPosX="-37.1690" WorldPosY="40.0000" WorldPosZ="509.9432" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A7.1 (R):4">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" name="CandyCane01-R1" PixelSize="4" WorldPosX="-528.0000" WorldPosY="0.0000" WorldPosZ="313.4340" X2="-288.000000" Y2="0.000000" Z2="0.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="61">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="5" Transparency="0" parm1="1" parm2="200" parm3="1" LayoutGroup="Eaves" StringType="Single Color Green" name="Eaves Chase C9 2 (G)" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="7" PointData="-387.000000,97.000000,-141.500000,-385.000000,97.000000,84.000000,-178.000000,97.000000,82.000000,-46.000000,225.000000,81.000000,86.000000,97.000000,80.000000,324.000000,95.000000,77.000000,321.000000,97.000000,-138.500000" cPointData="" Locked="1" versionNumber="3" StartChannel="&gt;Eaves Chase C9 1 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="5" Transparency="0" parm1="1" parm2="200" parm3="1" LayoutGroup="Eaves" StringType="Single Color Red" name="Eaves Chase C9 1 (R)" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="7" PointData="-387.000000,97.000000,-140.000000,-385.000000,97.000000,84.000000,-178.000000,97.000000,82.000000,-46.000000,225.000000,81.000000,86.000000,97.000000,80.000000,324.000000,95.000000,77.000000,321.000000,97.000000,-140.000000" cPointData="" Locked="1" versionNumber="3" StartChannel="!APix16 Out #01 Eave Pixels 1 {L} Horiz:385">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Red" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A1.1 (L} (R)" WorldPosX="-409.7712" WorldPosY="40.0000" WorldPosZ="508.1053" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Red" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A2.1 (R)" WorldPosX="-365.8848" WorldPosY="40.0000" WorldPosZ="483.1727" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A1.1 (L} (R):4">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Green" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A2.2 (G)" WorldPosX="-365.8848" WorldPosY="40.0000" WorldPosZ="483.1727" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A2.1 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="180.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Blue" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A2.3 (B)" WorldPosX="-365.8848" WorldPosY="40.0000" WorldPosZ="483.1727" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="1" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A2.1 (R):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A2.4 (W)" WorldPosX="-365.8848" WorldPosY="40.0000" WorldPosZ="483.1727" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A2.1 (R):3">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="270.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#f7dbdb" StringType="Single Color Custom" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A1.4 {L} (W)" WorldPosX="-409.7712" WorldPosY="40.0000" WorldPosZ="508.1053" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="2" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A1.1 (L} (R):3">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="180.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Blue" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A1.3 (L} (B)" WorldPosX="-409.7712" WorldPosY="40.0000" WorldPosZ="508.1053" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="1" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A1.1 (L} (R):2">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" StringType="Single Color Green" parm2="100" TreeSpiralRotations="8.000000" LayoutGroup="Forest" name="Tree- Tomato A1.2 (L} (G)" WorldPosX="-409.7712" WorldPosY="40.0000" WorldPosZ="508.1053" ScaleX="0.2000" ScaleY="0.2500" ScaleZ="0.2000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Tomato A1.1 (L} (R):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="R" Antialias="1" PixelSize="5" Transparency="0" parm1="1" parm2="200" parm3="1" LayoutGroup="Eaves" StringType="Single Color Blue" name="Eaves Chase C9 3 (B)" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="7" PointData="-387.000000,97.000000,-143.000000,-385.000000,97.000000,84.000000,-178.000000,97.000000,82.000000,-46.000000,225.000000,81.000000,86.000000,97.000000,80.000000,324.000000,95.000000,77.000000,321.000000,97.000000,-137.000000" cPointData="" Locked="1" versionNumber="3" StartChannel="&gt;Eaves Chase C9 2 (G):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="5" Transparency="0" parm1="1" parm2="200" parm3="1" LayoutGroup="Eaves" CustomColor="#bfbfff" StringType="Single Color White" name="Eaves Chase C9 4 (W)" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" NumPoints="7" PointData="-387.000000,97.000000,-144.500000,-385.000000,97.000000,84.000000,-178.000000,97.000000,82.000000,-46.000000,225.000000,81.000000,86.000000,97.000000,80.000000,324.000000,95.000000,77.000000,321.000000,97.000000,-135.500000" cPointData="" Locked="1" versionNumber="3" StartChannel="&gt;Eaves Chase C9 3 (B):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="4" Transparency="0" parm3="1" parm1="1" StringType="RGB Nodes" LayoutGroup="Eaves" parm2="220" name="Eave Pixels 1 {L} Horiz" WorldPosX="-180.0000" WorldPosY="101.0000" WorldPosZ="94.0000" X2="-217.000000" Y2="0.000000" Z2="3.000000" Locked="1" versionNumber="3" StartChannel="!APix16 Out #01 Eave Pixels 1 {L} Horiz:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="4" Transparency="0" parm3="1" parm1="1" StringType="RGB Nodes" LayoutGroup="Eaves" parm2="190" name="Eave Pixels 2 {L} Diag" WorldPosX="-180.0000" WorldPosY="101.0000" WorldPosZ="94.0000" X2="135.000015" Y2="129.999969" Z2="4.000031" Locked="1" versionNumber="3" StartChannel="!APix16 Out #02 Eave Pixels 2 {L} Diag:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="4" Transparency="0" parm3="1" parm1="1" StringType="RGB Nodes" LayoutGroup="Eaves" parm2="190" name="Eave Pixels 3 {R} Diag" WorldPosX="86.0000" WorldPosY="101.0000" WorldPosZ="92.0000" X2="-131.000000" Y2="130.000000" Z2="6.000000" Locked="1" versionNumber="3" StartChannel="!APix16 Out #03 Eave Pixels 3 {R} Diag:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="4" Transparency="0" parm3="1" parm1="1" StringType="RGB Nodes" LayoutGroup="Eaves" parm2="250" name="Eave Pixels 4 {R} Horiz" WorldPosX="86.0000" WorldPosY="101.0000" WorldPosZ="92.0000" X2="251.000000" Y2="0.000000" Z2="-2.000000" Locked="1" versionNumber="3" StartChannel="!APix16 Out #04 Eave Pixels 4 {R} Horiz:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="4" Transparency="0" parm3="1" parm1="1" parm2="100" StringType="3 Channel RGB" LayoutGroup="Eaves" name="Roof Ridgeline {L} (RGB)" WorldPosX="-305.0000" WorldPosY="209.0000" WorldPosZ="-150.0000" X2="229.000000" Y2="0.000000" Z2="-2.000000" Locked="1" versionNumber="3" StartChannel="141">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="4" Transparency="0" parm3="1" parm1="1" parm2="75" StringType="3 Channel RGB" LayoutGroup="Eaves" name="Roof Ridgeline {R} (RGB)" WorldPosX="235.6649" WorldPosY="209.4414" WorldPosZ="-154.8654" X2="-255.473938" Y2="-0.142135" Z2="2.337875" Locked="1" versionNumber="3" StartChannel="&gt;Roof Ridgeline {L} (RGB):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Eaves" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Snowflakes.png" OffBrightness="0" name="Swirlies- Snowflakes {R} (WB)" WorldPosX="-119.3253" WorldPosY="70.0000" WorldPosZ="55.9608" ScaleX="70.0000" ScaleY="70.0000" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="@Swirlies- Snowflakes {L} (WB):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" LayoutGroup="Cane &amp; Pixel Fence" parm1="4" parm2="16" PixelSize="5" Arc="120" name="Fence 1 LeftSide" WorldPosX="-557.0000" WorldPosY="51.0000" WorldPosZ="309.8403" X2="0.000000" Y2="0.000000" Z2="192.000000" RotateX="0" Height="1.500000" Angle="180" Locked="1" versionNumber="3" StartChannel="!APix4 Out #1 Pixel Fence:1">
+      <ControllerConnection/>
+      <subModel name="Swag01" layout="horizontal" type="ranges" line0="1-16">
+        <ControllerConnection/>
+      </subModel>
+      <subModel name="Swag02" layout="horizontal" type="ranges" line0="17-32">
+        <ControllerConnection/>
+      </subModel>
+      <subModel name="Swag03" layout="horizontal" type="ranges" line0="33-48">
+        <ControllerConnection/>
+      </subModel>
+      <subModel name="Swag04" layout="horizontal" type="ranges" line0="49-64">
+        <ControllerConnection/>
+      </subModel>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" DisplayAs="Horiz Matrix" LayoutGroup="Bushes" StringType="Single Color Green" parm1="1" parm3="4" parm2="450" name="Bushes 3.2 {C} M5 (G)" WorldPosX="-48.0000" WorldPosY="25.0000" WorldPosZ="148.0679" ScaleX="3.0000" ScaleY="8.0000" ScaleZ="1.0000" RotateX="-120" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Bushes 3.1 {C} M5 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" DisplayAs="Horiz Matrix" LayoutGroup="Bushes" StringType="Single Color Blue" parm1="1" parm3="4" parm2="450" name="Bushes 3.3 {C} M5 (B)" WorldPosX="-48.0000" WorldPosY="24.0000" WorldPosZ="151.0679" ScaleX="3.0000" ScaleY="8.0000" ScaleZ="1.0000" RotateX="-120" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Bushes 3.2 {C} M5 (G):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" DisplayAs="Horiz Matrix" LayoutGroup="Bushes" CustomColor="#ffe7ce" StringType="Single Color Custom" parm1="1" parm3="4" parm2="450" name="Bushes 3.4 {C} M5 (Ww)" WorldPosX="-48.0000" WorldPosY="23.0000" WorldPosZ="154.0679" ScaleX="3.0000" ScaleY="8.0000" ScaleZ="1.0000" RotateX="-120" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Bushes 3.3 {C} M5 (B):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="T" Dir="R" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#eac60e" StringType="Single Color Custom" parm2="300" TreeSpiralRotations="20.000000" LayoutGroup="Bushes" name="Bushes 5.6 {R} C9 (M)" WorldPosX="525.0000" WorldPosY="50.0000" WorldPosZ="305.0000" ScaleX="0.0330" ScaleY="0.6660" ScaleZ="0.2000" RotateX="-90" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Bushes 5.5 {R} C9 (V):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#ea0ecd" StringType="Single Color Red" parm2="300" TreeSpiralRotations="20.000000" LayoutGroup="Bushes" name="Bushes 5.1 {R} C9 (R)" WorldPosX="524.9800" WorldPosY="50.0200" WorldPosZ="310.0000" ScaleX="0.0330" ScaleY="0.6660" ScaleZ="0.2000" RotateX="-90" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="193">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#ea0ecd" StringType="Single Color Green" parm2="300" TreeSpiralRotations="20.000000" LayoutGroup="Bushes" name="Bushes 5.3 {R} C9 (G)" WorldPosX="524.9800" WorldPosY="50.0200" WorldPosZ="315.0000" ScaleX="0.0330" ScaleY="0.6660" ScaleZ="0.2000" RotateX="-90" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Bushes 5.1 {R} C9 (R):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#ea0ecd" StringType="Single Color Blue" parm2="300" TreeSpiralRotations="20.000000" LayoutGroup="Bushes" name="Bushes 5.2 {R} C9 (B)" WorldPosX="524.9800" WorldPosY="50.0200" WorldPosZ="320.0000" ScaleX="0.0330" ScaleY="0.6660" ScaleZ="0.2000" RotateX="-90" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Bushes 5.3 {R} C9 (G):1">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="0.000000" TreeBottomTopRatio="0.000000" parm1="1" DisplayAs="Tree 1" CustomColor="#ea0ecd" StringType="Single Color White" parm2="300" TreeSpiralRotations="20.000000" LayoutGroup="Bushes" name="Bushes 5.4 {R} C9 (W)" WorldPosX="524.9800" WorldPosY="50.0200" WorldPosZ="325.0000" ScaleX="0.0330" ScaleY="0.6660" ScaleZ="0.2000" RotateX="-90" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Bushes 5.2 {R} C9 (B):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Poly Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="50" parm3="1" LayoutGroup="Singers" CustomColor="#ff00ff" StringType="Single Color Custom" name="Rainbow Rope Arch 6 (V)" WorldPosX="93.6270" WorldPosY="14.9977" WorldPosZ="85.3627" ScaleX="0.5360" ScaleY="0.5320" ScaleZ="1.0000" NumPoints="4" PointData="0.000000,-5.500000,-0.850000,0.000000,140.000000,-0.850000,0.000000,140.000000,50.000000,0.000000,-5.500000,50.000000" cPointData="1,5.596986,204.975342,7.412201,0.574283,204.416672,41.744217," Locked="1" versionNumber="3" StartChannel="&gt;Rainbow Rope Arch 5 (B):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="20" Transparency="0" parm3="1" parm1="1" parm2="1" CustomColor="#808080" StringType="Single Color Custom" LayoutGroup="!All Lights" name="Master Power Low" WorldPosX="130.0000" WorldPosY="-20.0000" WorldPosZ="75.0000" X2="19.146729" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="389">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/!ActiveDocuments/xLights/2019/WizLights/Images/PeaceSign.png" OffBrightness="0" name="Peace Sign (RGB)" WorldPosX="-474.8023" WorldPosY="30.0000" WorldPosZ="107.4484" ScaleX="48.0000" ScaleY="48.0000" ScaleZ="1.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="79">
+      <ControllerConnection/>
+    </model>
+    <model StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" TreeRotation="90.000000" parm1="1" DisplayAs="Tree 360" CustomColor="#ffd500" StringType="Single Color Custom" parm2="300" TreeSpiralRotations="14.000000" LayoutGroup="Forest" name="Tree- Big 2 [U01.050 L3.02] (M)" WorldPosX="-179.9800" WorldPosY="40.0200" WorldPosZ="355.0086" ScaleX="0.1627" ScaleY="0.1735" ScaleZ="0.1627" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Big 1 (M):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" name="z_Spare [U01.056 L3.08]" parm2="1" CustomColor="#808080" StringType="Single Color Custom" WorldPosX="-100.0000" WorldPosY="120.0000" WorldPosZ="-400.0000" X2="50.475311" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="56">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#808080" StringType="Single Color Custom" name="z_Spare [U01.057 L3.09]" WorldPosX="-110.0000" WorldPosY="120.0000" WorldPosZ="-400.0000" X2="50.475311" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="57">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#808080" StringType="Single Color Custom" name="z_Spare [U01.060 L3.12]" WorldPosX="-120.0000" WorldPosY="120.0000" WorldPosZ="-400.0000" X2="50.475311" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="60">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" LayoutGroup="Odddballs" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/SnowfallSm.png" OffBrightness="0" name="Yellow Snow [U01.094 L5.14] (Y)" CustomColor="#ffff80" StringType="Single Color Custom" WorldPosX="-2.9800" WorldPosY="-34.9800" WorldPosZ="283.6690" ScaleX="153.6674" ScaleY="100.0000" ScaleZ="0.0000" RotateX="-95" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="94">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#808080" StringType="Single Color Custom" name="z_Spare [L4.05]" WorldPosX="-130.0000" WorldPosY="120.0000" WorldPosZ="-400.0000" X2="50.475311" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="69">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#808080" StringType="Single Color Custom" name="z_Spare [L4.06]" WorldPosX="-140.0000" WorldPosY="120.0000" WorldPosZ="-400.0000" X2="50.475311" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="70">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#808080" StringType="Single Color Custom" name="z_Spare [L4.13]" WorldPosX="-150.0000" WorldPosY="120.0000" WorldPosZ="-400.0000" X2="50.475311" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="77">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#808080" StringType="Single Color Custom" name="z_BAD TRIAC [L1.09]" WorldPosX="-30.0000" WorldPosY="120.0000" WorldPosZ="-400.0000" X2="50.475311" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="393">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#808080" StringType="Single Color Custom" name="Laser- Spare" WorldPosX="-80.0000" WorldPosY="120.0000" WorldPosZ="400.0000" X2="50.475311" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="201">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Single Line" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" LayoutGroup="Default" parm2="1" CustomColor="#808080" StringType="Single Color Custom" name="Swirlies- Spare" WorldPosX="-90.0000" WorldPosY="120.0000" WorldPosZ="-400.0000" X2="50.475311" Y2="0.000000" Z2="0.000000" Locked="1" versionNumber="3" StartChannel="203">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Candy Canes" StartSide="B" Dir="L" Antialias="1" Transparency="0" parm3="1" parm2="20" LayoutGroup="Cane &amp; Pixel Fence" parm1="1" CandyCaneSticks="False" CandyCaneReverse="False" CandyCaneHeight="1.000000" StringType="Single Color Red" PixelSize="4" name="Swirlies Candy Canes [U01.092 L5.12] (RG)" WorldPosX="40.0200" WorldPosY="-39.9800" WorldPosZ="553.4338" X2="0.000000" Y2="0.000000" Z2="288.000000" RotateX="0" Height="0.100000" Angle="0" Locked="1" versionNumber="3" StartChannel="92">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Swirly-Twirly" OffBrightness="0" Image="/home/wizard/!ActiveDocuments/xLights/2019/WizLights/Images/MoreSwirlingDotsYel.png" name="Swirlies Street [U02.080 L7.16] (M)" WorldPosX="540.0200" WorldPosY="130.0200" WorldPosZ="650.0000" ScaleX="87.8491" ScaleY="88.9954" ScaleZ="20.0000" RotateX="0" RotateY="-90" RotateZ="0" Locked="1" versionNumber="3" StartChannel="208">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Image" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" parm1="1" parm2="1" StringType="Single Color White" LayoutGroup="Odddballs" Image="/home/wizard/Documents/xLights/2019/WizLights/Images/Nativity.png" OffBrightness="30" name="Manger Flood {R} [U02.007-010 C1.07-10] (RGB)" WorldPosX="463.0200" WorldPosY="-3.9800" WorldPosZ="435.8732" ScaleX="60.5917" ScaleY="59.9999" ScaleZ="0.0000" RotateX="0" RotateY="180" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Manger Flood {L} (RGB):1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" CustomModel=",,,,,,,,,,,21,,,,,,,,,,16,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,17,,,,15,,,,,;,,,,,22,,,,23,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,20,,,,,,,,,,14,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,24,,,,,,18,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,19,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;27,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10;,,,,,,,,,,,,25,,,,,,,,13,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,29,,,,26,,,,30,,,,,,,,,,,,,12,,,8,,,,11,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,31,,,,,,,,7,,,,,,,,,,,,9;,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,36,,,,,,,6,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,32,,,,,,,,,,,2,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,33,,,35,,,,,,,,,,,,,,,5,,,4,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,34,,,,,,,,,,,3,,,,,,,,,," parm1="33" parm2="35" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="36" PixelType="12mm square" PixelSpacing="" name="Snowflake 2 Boscoyo 16 2 prong" LayoutGroup="Default" WorldPosX="-73.8443" WorldPosY="178.1759" WorldPosZ="99.1755" ScaleX="0.5000" ScaleY="0.5000" ScaleZ="1.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Snowflake 1 Boscoyo 16 Diamond:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" CustomModel=",,,,,,,23,,,,,,,,,,,,,,,,,17,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,22,,,,,,,,18,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,19,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,16,,,,,,,;,,,,,,,24,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,21,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,13,,,,,,;,,,,,,25,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,27,,,,,,20,,,,,,15,,,,,,,12,,,;,,,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,26,,,,,,14,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11;29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,32,,,,,,8,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,,,;,,,30,,,,,,,33,,,,,,2,,,,,,,9,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,;,,,,,,,31,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,;,,,,,,,,34,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,;,,,,,,,,,,,,,36,,,,,,,,,,,,,,,,,,,;,,,,,,,,35,,,,,,,,,,,,,,,,,5,,,,,,," parm1="33" parm2="34" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="36" PixelType="12mm square" PixelSpacing="" name="Snowflake 1 Boscoyo 16 Diamond" LayoutGroup="Default" WorldPosX="-129.4843" WorldPosY="125.0696" WorldPosZ="96.1796" ScaleX="0.5000" ScaleY="0.5000" ScaleZ="1.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="!APix16 Out #07 Snowflakes:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" CustomModel=",,,,,,,23,,,,,,,,,,,,,,,,,17,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,22,,,,,,,,18,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,19,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,16,,,,,,,;,,,,,,,24,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,21,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,13,,,,,,;,,,,,,25,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,27,,,,,,20,,,,,,15,,,,,,,12,,,;,,,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,26,,,,,,14,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11;29,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,32,,,,,,8,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,,,;,,,30,,,,,,,33,,,,,,2,,,,,,,9,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,;,,,,,,,31,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,;,,,,,,,,34,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,;,,,,,,,,,,,,,36,,,,,,,,,,,,,,,,,,,;,,,,,,,,35,,,,,,,,,,,,,,,,,5,,,,,,," parm1="33" parm2="34" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="36" PixelType="12mm square" PixelSpacing="" name="Snowflake 4 Boscoyo 16 Diamond" LayoutGroup="Default" WorldPosX="34.5447" WorldPosY="126.8557" WorldPosZ="95.1983" ScaleX="0.5000" ScaleY="0.5000" ScaleZ="1.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Snowflake 3 Boscoyo 16 3 prong:1">
+      <ControllerConnection/>
+    </model>
+    <model DisplayAs="Star" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" LayoutGroup="Default" parm3="8" parm2="8" name="Tree Star- Big Pixel Tree Star Points" WorldPosX="-218.1241" WorldPosY="172.1833" WorldPosZ="434.3433" ScaleX="2.0000" ScaleY="2.0000" ScaleZ="0.0000" RotateX="0" RotateY="0" RotateZ="0" Locked="1" versionNumber="3" StartChannel="&gt;Tree- Big Pixel :1">
+      <ControllerConnection/>
+    </model>
+  </models>
+  <view_objects>
+    <view_object DisplayAs="Gridlines" LayoutGroup="Default" GridAxis="1" GridLineSpacing="48" GridHeight="1440" GridWidth="1080" name="Horizontal Gridlines" Active="1" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90" RotateY="0" RotateZ="0" versionNumber="3"/>
+    <view_object DisplayAs="Mesh" LayoutGroup="Unassigned" Active="1" Diffuse="1" ObjFile="C:\Users\Wizard\!ActiveDocuments\xLights\2019\WizLights\Images\House3D\Betty'sHouseDark2.obj" name="Bettys House" Brightness="40" WorldPosX="-200.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0" RotateY="89" RotateZ="0" versionNumber="3"/>
+    <view_object DisplayAs="Gridlines" LayoutGroup="Default" GridAxis="1" GridHeight="1440" GridWidth="1080" name="Grass" GridLineSpacing="2" GridColor="#004000" Active="0" WorldPosX="50.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-87" RotateY="0" RotateZ="0" versionNumber="3"/>
+  </view_objects>
+  <effects version="0006"/>
+  <views>
+    <view name="Forest" models="Tree- Big 2 [U01.050 L3.02] (M),Tree- Big Pixel ,Tree- Big 1 (M),Tree- Small {L} (B),Trees- Spiral Group (WWWG),Trees- Tinsel Group (R),Trees- Tomato All Groups Group (RGBWVW)"/>
+    <view name="Oddballs" models=""/>
+    <view name="Singers" models=""/>
+    <view name="Bushes" models=""/>
+    <view name="House Front" models=""/>
+    <view name="Swirly-Twirlies" models=""/>
+    <view name="Pixels" models="EavePixels Group,Fence Pixels Group,Tree- Big Pixel "/>
+    <view name="Master Power" models=""/>
+    <view name="zAll AC" models="Song Parts,Master Power Group,Forest Groups Group,Bushes Groups Group,Singers,Snow Group,Religious Group,Ridgeline Group,Oddballs Group,Eaves Chase C9 Group (RGBW),Color  Groups Group,Candy Canes Seq Group (RGRG),Rainbow Arch Group (RYOGBV),Swirlies Group (M)"/>
+    <view name="By Controller" models="xLOR#1 In Garage [USB L1.01-16],xChinese27 In Garage 12Volts [U02.001-027],xRenard- Trees- Tomato Row A [U01.001-032],xLOR#2 Trees- Tomato Row B [U01.033-048],xLOR#3 Behind the SnowGlobe [U01.049-064],xLOR#4 Behind the Left Bushes [U01.065-080],xLOR#5 Behind the Center Bushes [U01.081-096],xLOR#7 Behind the Right Bushes [U02.065-080]"/>
+    <view name="Timez" models=""/>
+    <view name="Conventional in Logical Order" models="Master Power Group,Eaves Chase C9 Group (RGBW),Bushes Groups Group,Trees- ALL Groups Group,Singers,Snow Group,Ridgeline Group,Religious Group,Countdown Timer (B),Presents (M),Lamp Posts (Y),Candy Canes Seq Group (RGRG),Mailboxes (Y),Rainbow Arch Group (RYOGBV),Swirlies Group (M),Wreath (GR)"/>
+  </views>
+  <palettes/>
+  <modelGroups>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Forest" models="Tree- Tomato A1.1 (L} (R),Tree- Tomato A1.2 (L} (G),Tree- Tomato A1.3 (L} (B),Tree- Tomato A1.4 {L} (W)" name="Tree- Tomato A1 Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Forest" models="Tree- Tomato A1.1 (L} (R),Tree- Tomato A2.1 (R),Tree- Tomato A3.1 (R),Tree- Tomato A4.1 {CL} (R),Tree- Tomato A5.1 {CR} (R),Tree- Tomato A6.1 (R),Tree- Tomato A7.1 (R),Tree- Tomato A8.1 {R} (R)" name="Trees- Tomato A 1 Red Group (R)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Forest" models="Tree- Tomato A1.2 (L} (G),Tree- Tomato A2.2 (G),Tree- Tomato A3.2 (G),Tree- Tomato A4.2 {CL} (G),Tree- Tomato A5.2 {CR} (G),Tree- Tomato A6.2 (G),Tree- Tomato A7.2 (G),Tree- Tomato A8.2 {R} (G)" name="Trees- Tomato A 2 Grn Group (G)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Forest" models="Tree- Tomato A1.3 (L} (B),Tree- Tomato A2.3 (B),Tree- Tomato A3.3 (B),Tree- Tomato A4.3 {CL} (B),Tree- Tomato A5.3 {CR} (B),Tree- Tomato A6.3 (B),Tree- Tomato A7.3 (B),Tree- Tomato A8.3 {R} (B)" name="Trees- Tomato A 3 Blu Group (B)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Forest" models="Tree- Tomato A1.4 {L} (W),Tree- Tomato A2.4 (W),Tree- Tomato A3.4 (W),Tree- Tomato A4.4 {CL} (W),Tree- Tomato A5.4 {CR} (W),Tree- Tomato A6.4 (W),Tree- Tomato A7.4 (W),Tree- Tomato A8.4 {R} (W)" name="Trees- Tomato A 4 Wht Group (W)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Eaves" name="Eaves Chase C9 Group (RGBW)" models="Eaves Chase C9 1 (R),Eaves Chase C9 2 (G),Eaves Chase C9 3 (B),Eaves Chase C9 4 (W)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" name="EavePixels Group" LayoutGroup="Eaves" models="Eave Pixels 1 {L} Horiz,Eave Pixels 2 {L} Diag,Eave Pixels 3 {R} Diag,Eave Pixels 4 {R} Horiz">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" models="CandyCane01-R1,CandyCane02-G2,CandyCane03-R3,CandyCane04-G4,CandyCane05-R1,CandyCane06-G2,CandyCane07-R3,CandyCane08-G4,CandyCane09-R1,CandyCane10-G2,CandyCane11-R3,CandyCane12-G4,CandyCane13-R1,CandyCane14-G2,CandyCane15-R3,CandyCane16-G4,CandyCane17-R1,CandyCane18-G2,CandyCane19-R3,CandyCane20-G4,CandyCane21-R1,CandyCane22-G2" GridSize="400" layout="minimalGrid" LayoutGroup="Cane &amp; Pixel Fence" name="Candy Canes All Individual Group">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" name="Fence Pixels Group" LayoutGroup="Cane &amp; Pixel Fence" models="Fence 1 LeftSide,Fence 2 Left Front Corner,Fence 3 Front Left Corner,Fence 4 Front,Fence 5 Diagonal,Fence 6 Right Driveway"/>
+    <modelGroup selected="0" LayoutGroup="Forest" GridSize="400" layout="minimalGrid" models="Tree- Tomato A2.1 (R),Tree- Tomato A2.2 (G),Tree- Tomato A2.3 (B),Tree- Tomato A2.4 (W)" name="Tree- Tomato A2 Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Forest" GridSize="400" layout="minimalGrid" models="Tree- Tomato A3.1 (R),Tree- Tomato A3.2 (G),Tree- Tomato A3.3 (B),Tree- Tomato A3.4 (W)" name="Tree- Tomato A3 Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Forest" GridSize="400" layout="minimalGrid" models="Tree- Tomato A4.1 {CL} (R),Tree- Tomato A4.2 {CL} (G),Tree- Tomato A4.3 {CL} (B),Tree- Tomato A4.4 {CL} (W)" name="Tree- Tomato A4 Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Forest" GridSize="400" layout="minimalGrid" models="Tree- Tomato A5.1 {CR} (R),Tree- Tomato A5.2 {CR} (G),Tree- Tomato A5.3 {CR} (B),Tree- Tomato A5.4 {CR} (W)" name="Tree- Tomato A5 Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Forest" GridSize="400" layout="minimalGrid" models="Tree- Tomato A6.1 (R),Tree- Tomato A6.2 (G),Tree- Tomato A6.3 (B),Tree- Tomato A6.4 (W)" name="Tree- Tomato A6 Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Forest" GridSize="400" layout="minimalGrid" models="Tree- Tomato A7.1 (R),Tree- Tomato A7.2 (G),Tree- Tomato A7.3 (B),Tree- Tomato A7.4 (W)" name="Tree- Tomato A7 Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Forest" GridSize="400" layout="minimalGrid" models="Tree- Tomato A8.1 {R} (R),Tree- Tomato A8.2 {R} (G),Tree- Tomato A8.3 {R} (B),Tree- Tomato A8.4 {R} (W)" name="Tree- Tomato A8 Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Forest" name="Trees- Tomato B Wht Group" models="Tree- Tomato B1.2 {L} (W),Tree- Tomato B2.2 (W),Tree- Tomato B3.2 (W),Tree- Tomato B4.2 {CL} (W),Tree- Tomato B5.2 {CR} (W),Tree- Tomato B6.2 (W),Tree- Tomato B7.2 (W),Tree- Tomato B8.2 {R} (W)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Forest" name="Trees- Tomato B Vio Group" models="Tree- Tomato B1.1 {L} (V),Tree- Tomato B2.1 (V),Tree- Tomato B3.1 (V),Tree- Tomato B4.1 {CL} (V),Tree- Tomato B5.1 {CR} (V),Tree- Tomato B6.1 (V),Tree- Tomato B7.1 (V),Tree- Tomato B8.1 {R} (V)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Forest" models="Tree- Tomato B1.1 {L} (V),Tree- Tomato B1.2 {L} (W)" name="Tree- Tomato B1 Group (VW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Forest" models="Tree- Tomato B3.1 (V),Tree- Tomato B3.2 (W)" name="Tree- Tomato B3 Group (VW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Forest" models="Tree- Tomato B4.1 {CL} (V),Tree- Tomato B4.2 {CL} (W)" name="Tree- Tomato B4 Group (VW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Forest" models="Tree- Tomato B5.1 {CR} (V),Tree- Tomato B5.2 {CR} (W)" name="Tree- Tomato B5 Group (VW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Forest" models="Tree- Tomato B6.1 (V),Tree- Tomato B6.2 (W)" name="Tree- Tomato B6 Group (VW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Forest" models="Tree- Tomato B7.1 (V),Tree- Tomato B7.2 (W)" name="Tree- Tomato B7 Group (VW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Forest" models="Tree- Tomato B8.1 {R} (V),Tree- Tomato B8.2 {R} (W)" name="Tree- Tomato B8 Group (VW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Forest" name="Trees- Tomato A+B Wht Indiv Group" models="Tree- Tomato B1.2 {L} (W),Tree- Tomato A1.4 {L} (W),Tree- Tomato B2.2 (W),Tree- Tomato A2.4 (W),Tree- Tomato B3.2 (W),Tree- Tomato A3.4 (W),Tree- Tomato B4.2 {CL} (W),Tree- Tomato A4.4 {CL} (W),Tree- Tomato A5.4 {CR} (W),Tree- Tomato B5.2 {CR} (W),Tree- Tomato A6.4 (W),Tree- Tomato B6.2 (W),Tree- Tomato A7.4 (W),Tree- Tomato B7.2 (W),Tree- Tomato A8.4 {R} (W),Tree- Tomato B8.2 {R} (W)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" Locked="1" LayoutGroup="Forest" models="Tree- Tomato A1 Group (RGBW),Tree- Tomato A2 Group (RGBW),Tree- Tomato A3 Group (RGBW),Tree- Tomato A4 Group (RGBW),Tree- Tomato A5 Group (RGBW),Tree- Tomato A6 Group (RGBW),Tree- Tomato A7 Group (RGBW),Tree- Tomato A8 Group (RGBW)" name="Trees- Tomato A Groups Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Forest" models="Tree- Tomato B1 Group (VW),Tree- Tomato B2 Group (VW),Tree- Tomato B3 Group (VW),Tree- Tomato B4 Group (VW),Tree- Tomato B5 Group (VW),Tree- Tomato B6 Group (VW),Tree- Tomato B7 Group (VW),Tree- Tomato B8 Group (VW)" name="Trees- Tomato B Groups Group (VW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Forest" name="Trees- Tomato All Groups Group (RGBWVW)" models="Trees- Tomato A Groups Group (RGBW),Trees- Tomato B Groups Group (VW),Trees- Tomato by Color Group">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Forest" models="Tree- Tomato B2.1 (V),Tree- Tomato B2.2 (W)" name="Tree- Tomato B2 Group (VW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Forest" models="Tree- Spiral 4 {B} (G),Tree- Spiral 2 {F} (W),Tree- Spiral 1 {L} (W),Tree- Spiral 3 {R} (W)" name="Trees- Spiral Group (WWWG)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Forest" models="Tree- Tinsel 1 {L} (R),Tree- Tinsel 2 {R} (R)" name="Trees- Tinsel Group (R)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Bushes" models="Bushes 3.1 {C} M5 (R),Bushes 3.2 {C} M5 (G),Bushes 3.3 {C} M5 (B),Bushes 3.4 {C} M5 (Ww)" name="Bushes 3 {C} Group (RGBWw)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Bushes" models="Bushes 2.1 {L} (M),Bushes 2.2 {L} (W)" name="Bushes 2 {L} Group (MWO)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Bushes" models="Bushes 5.1 {R} C9 (R),Bushes 5.3 {R} C9 (G),Bushes 5.2 {R} C9 (B),Bushes 5.4 {R} C9 (W),Bushes 5.5 {R} C9 (V),Bushes 5.6 {R} C9 (M)" name="Bushes 5 {R} ALL Group (RGBWVM)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" LayoutGroup="Bushes" models="Bushes 4.1 {D} (Pink),Bushes 4.2 {D} (W)" name="Bushes 4 {D} Group (PW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" name="Bushes White Group" LayoutGroup="Bushes" models="Bushes 2.2 {L} (W),Bushes 3.4 {C} M5 (Ww),Bushes 4.2 {D} (W),Bushes 5.4 {R} C9 (W)"/>
+    <modelGroup selected="0" layout="minimalGrid" GridSize="400" name="Ridgeline Group" LayoutGroup="Eaves" models="Roof Ridgeline {L} (RGB),Roof Ridgeline {R} (RGB)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Eaves" models="Wreath 1 Leaves (G),Wreath 3 Leaves (G),Wreath 4 Leaves (G),Wreath 6 Leaves (G)" name="Wreath Leaves (G)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Eaves" models="Wreath 2 Berries (R),Wreath 5 Berries (R)" name="Wreath Berries (R)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Singers" models="Rainbow Rope Arch 1 (R),Rainbow Rope Arch 2 (O),Rainbow Rope Arch 3 (Y),Rainbow Rope Arch 4 (G),Rainbow Rope Arch 5 (B),Rainbow Rope Arch 6 (V)" name="Rainbow Arch Group (RYOGBV)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Singers" models="Swirlies- Snowflakes {L} (WB),Swirlies- Snowflakes {R} (WB)" name="Swirlies- Snowflakes (WB)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Singers" GridSize="400" layout="minimalGrid" name="Wreath (GR)" models="Wreath Leaves (G),Wreath Berries (R)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" name="Forest (all individual) Group" LayoutGroup="Forest" models="Tree- Big Pixel ,Tree- Big 1 (M),Tree- Tomato A1.4 {L} (W),Tree- Tomato A2.3 (B),Tree- Tomato A2.2 (G),Tree- Tomato A2.1 (R),Tree- Tomato A1.3 (L} (B),Tree- Tomato A1.2 (L} (G),Tree- Tomato A1.1 (L} (R),Tree- Tomato A2.4 (W),Tree- Tomato A3.3 (B),Tree- Tomato A3.2 (G),Tree- Tomato A3.1 (R),Tree- Tomato A3.4 (W),Tree- Tomato A4.3 {CL} (B),Tree- Tomato A4.2 {CL} (G),Tree- Tomato A4.1 {CL} (R),Tree- Tomato A4.4 {CL} (W),Tree- Tomato A5.3 {CR} (B),Tree- Tomato A5.2 {CR} (G),Tree- Tomato A5.1 {CR} (R),Tree- Tomato A5.4 {CR} (W),Tree- Tomato A6.3 (B),Tree- Tomato A6.2 (G),Tree- Tomato A6.1 (R),Tree- Tomato A6.4 (W),Tree- Tomato A7.3 (B),Tree- Tomato A7.2 (G),Tree- Tomato A7.1 (R),Tree- Tomato A7.4 (W),Tree- Tomato A8.3 {R} (B),Tree- Tomato A8.2 {R} (G),Tree- Tomato A8.1 {R} (R),Tree- Tomato A8.4 {R} (W),Tree- Tomato B1.1 {L} (V),Tree- Tomato B1.2 {L} (W),Tree- Tomato B4.1 {CL} (V),Tree- Tomato B4.2 {CL} (W),Tree- Tomato B5.1 {CR} (V),Tree- Tomato B5.2 {CR} (W),Tree- Tomato B6.2 (W),Tree- Tomato B6.1 (V),Tree- Tomato B7.2 (W),Tree- Tomato B7.1 (V),Tree- Tomato B8.1 {R} (V),Tree- Tomato B8.2 {R} (W),Tree- Tomato B2.1 (V),Tree- Tomato B2.2 (W),Tree- Tomato B3.1 (V),Tree- Tomato B3.2 (W)"/>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Bushes" models="Bushes 5.2 {R} C9 (B),Bushes 5.3 {R} C9 (G),Bushes 5.1 {R} C9 (R),Bushes 5.4 {R} C9 (W)" name="Bushes 5 {R} RGBW Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Bushes" models="Bushes 1 {S} Rainbow 1 (R),Bushes 1 {S} Rainbow 2 (O),Bushes 1 {S} Rainbow 3 (G),Bushes 1 {S} Rainbow 4 (B),Bushes 1 {S} Rainbow 5 (V)" name="Bushes 1 {S} Rainbow (ROGBV)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name="Religious Group" GridSize="400" layout="minimalGrid" LayoutGroup="Odddballs" models="Yule Log (O),Menorah (B),Manger Flood {L} (RGB),Star of Bethlehem (W),Festivus Pole Flood (RGB),Peace Sign (RGB)"/>
+    <modelGroup selected="0" models="CandyCane01-R1,CandyCane05-R1,CandyCane09-R1,CandyCane13-R1,CandyCane17-R1,CandyCane21-R1" GridSize="400" layout="minimalGrid" LayoutGroup="Cane &amp; Pixel Fence" name="Candy Canes 1 (R)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" models="CandyCane02-G2,CandyCane06-G2,CandyCane10-G2,CandyCane14-G2,CandyCane18-G2,CandyCane22-G2" GridSize="400" layout="minimalGrid" LayoutGroup="Cane &amp; Pixel Fence" name="Candy Canes 2 (G)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" models="CandyCane03-R3,CandyCane07-R3,CandyCane11-R3,CandyCane15-R3,CandyCane19-R3" GridSize="400" layout="minimalGrid" LayoutGroup="Cane &amp; Pixel Fence" name="Candy Canes 3 (R)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" models="CandyCane04-G4,CandyCane08-G4,CandyCane12-G4,CandyCane16-G4,CandyCane20-G4" GridSize="400" layout="minimalGrid" LayoutGroup="Cane &amp; Pixel Fence" name="Candy Canes 4 (G)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name="Snow Group" GridSize="400" layout="minimalGrid" LayoutGroup="Swirly-Twirly" models="Swirlies- Snowflakes (WB),Swirlies- Snowflakes {L} (WB),Swirlies- Snowflakes {R} (WB),Singers- Snow Globe (Ww),Singers- Snowman (New) (W),Snow Lake (W)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name="Master Power Group" LayoutGroup="Odddballs" GridSize="400" layout="minimalGrid" models="Master Power Low,Master Power High,Security Lights (W),Streetlight Laser,aGround,Santa in the Window">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name=" EVERYTHING Group" GridSize="400" layout="minimalGrid" LayoutGroup="Default" models="Tree- Big Pixel ,Tree- Big 1 (M),Bushes 1 {S} Rainbow 1 (R),Bushes 1 {S} Rainbow 2 (O),Bushes 1 {S} Rainbow 3 (G),Bushes 1 {S} Rainbow 4 (B),Bushes 1 {S} Rainbow 5 (V),Bushes 2.1 {L} (M),Bushes 2.2 {L} (W),Bushes 2.3 {L} Low (O),Bushes 3.1 {C} M5 (R),Bushes 3.2 {C} M5 (G),Bushes 3.3 {C} M5 (B),Bushes 3.4 {C} M5 (Ww),Bushes 4.1 {D} (Pink),Bushes 4.2 {D} (W),Bushes 5.1 {R} C9 (R),Bushes 5.3 {R} C9 (G),Bushes 5.2 {R} C9 (B),Bushes 5.4 {R} C9 (W),Bushes 5.5 {R} C9 (V),Bushes 5.6 {R} C9 (M),Eaves Chase C9 1 (R),Eaves Chase C9 2 (G),Eaves Chase C9 3 (B),Eaves Chase C9 4 (W),CandyCane01-R1,CandyCane02-G2,CandyCane03-R3,CandyCane04-G4,CandyCane05-R1,CandyCane06-G2,CandyCane07-R3,CandyCane08-G4,CandyCane09-R1,CandyCane10-G2,CandyCane11-R3,CandyCane12-G4,CandyCane13-R1,CandyCane14-G2,CandyCane15-R3,CandyCane16-G4,CandyCane17-R1,CandyCane18-G2,CandyCane19-R3,CandyCane20-G4,CandyCane21-R1,CandyCane22-G2,Singers- Carolers Flood (RGB),Countdown Timer (B),Deer 1,Deer 2,Disco Balls {L} (M),Disco Balls {R} (M),Eave Pixels 1 {L} Horiz,Eave Pixels 2 {L} Diag,Eave Pixels 3 {R} Diag,Eave Pixels 4 {R} Horiz,Fence 1 LeftSide,Fence 2 Left Front Corner,Fence 3 Front Left Corner,Fence 4 Front,Fence 5 Diagonal,Fence 6 Right Driveway,Festivus Pole Flood (RGB),HappyHolidays,Lamp Posts (Y),Laser- Driveway (RG),Laser- Street (RG),Mailbox- Graphic,Mailbox- MiniWicker (W),Mailbox- Real (O),Master Power Low,Master Power High,Menorah (B),Manger Flood {L} (RGB),Star of Bethlehem (W),Peace Sign (RGB),Singers- Penguins,Presents (M),Rainbow Rope Arch 1 (R),Rainbow Rope Arch 2 (O),Rainbow Rope Arch 3 (Y),Rainbow Rope Arch 4 (G),Rainbow Rope Arch 5 (B),Rainbow Rope Arch 6 (V),Roof Ridgeline {L} (RGB),Roof Ridgeline {R} (RGB),Santa in the Window,Security Lights (W),Snowfall Spots (W),Swirlies- Snowflakes {L} (WB),Swirlies- Snowflakes {R} (WB),Singers- Snow Globe (Ww),Snow Lake (W),Singers- Snowman (New) (W),Tree- Spiral 2 {F} (W),Tree- Spiral 3 {R} (W),Tree- Spiral 4 {B} (G),Tree- Spiral 1 {L} (W),Streetlight Laser,Swirlies- Oak (RGB),Tree- Tinsel 1 {L} (R),Tree- Tinsel 2 {R} (R),Tree- Small {L} (B),Tree- Tomato A1.3 (L} (B),Tree- Tomato A1.2 (L} (G),Tree- Tomato A1.1 (L} (R),Tree- Tomato A1.4 {L} (W),Tree- Tomato A2.3 (B),Tree- Tomato A2.2 (G),Tree- Tomato A2.1 (R),Tree- Tomato A2.4 (W),Tree- Tomato A3.3 (B),Tree- Tomato A3.2 (G),Tree- Tomato A3.1 (R),Tree- Tomato A3.4 (W),Tree- Tomato A4.3 {CL} (B),Tree- Tomato A4.2 {CL} (G),Tree- Tomato A4.1 {CL} (R),Tree- Tomato A4.4 {CL} (W),Tree- Tomato A5.3 {CR} (B),Tree- Tomato A5.2 {CR} (G),Tree- Tomato A5.1 {CR} (R),Tree- Tomato A5.4 {CR} (W),Tree- Tomato A6.3 (B),Tree- Tomato A6.2 (G),Tree- Tomato A6.1 (R),Tree- Tomato A6.4 (W),Tree- Tomato A7.3 (B),Tree- Tomato A7.2 (G),Tree- Tomato A7.1 (R),Tree- Tomato A7.4 (W),Tree- Tomato A8.3 {R} (B),Tree- Tomato A8.2 {R} (G),Tree- Tomato A8.1 {R} (R),Tree- Tomato A8.4 {R} (W),Tree- Tomato B1.1 {L} (V),Tree- Tomato B1.2 {L} (W),Tree- Tomato B2.1 (V),Tree- Tomato B2.2 (W),Tree- Tomato B3.1 (V),Tree- Tomato B3.2 (W),Tree- Tomato B4.1 {CL} (V),Tree- Tomato B4.2 {CL} (W),Tree- Tomato B5.1 {CR} (V),Tree- Tomato B5.2 {CR} (W),Tree- Tomato B6.1 (V),Tree- Tomato B6.2 (W),Tree- Tomato B7.1 (V),Tree- Tomato B7.2 (W),Tree- Tomato B8.1 {R} (V),Tree- Tomato B8.2 {R} (W),UFOs 1 {L}{L} (RGB),UFOs 1 {L}{R} (RGB),UFOs 3 {R}{L} (RGB),UFOs 3 {R}{R} (RGB),UFOs 2 {CT}{L} (RGB),UFOs 2 {CT}{R} (RGB),Wreath 1 Leaves (G),Wreath 3 Leaves (G),Wreath 4 Leaves (G),Wreath 6 Leaves (G),Wreath 2 Berries (R),Wreath 5 Berries (R),Yule Log (O),Swirlies- Driveway (RGB),Swirlies- Pine (GO)"/>
+    <modelGroup selected="0" name="Canes + Fence Group" GridSize="400" layout="minimalGrid" LayoutGroup="Cane &amp; Pixel Fence" models="Candy Canes All Individual Group,Fence Pixels Group"/>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Odddballs" models="Mailbox- Real (O),Mailbox- MiniWicker (W),Mailbox- Graphic" name="Mailboxes (Y)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Swirly-Twirly" name="UFOs All Group (RGB)" models="UFOs 1 {L} (RGB),UFOs 2 {CT} (RGB),UFOs 3 {R} (RGB)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Swirly-Twirly" models="UFOs 1 {L}{L} (RGB),UFOs 1 {L}{R} (RGB)" name="UFOs 1 {L} (RGB)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Swirly-Twirly" models="UFOs 2 {CT}{L} (RGB),UFOs 2 {CT}{R} (RGB)" name="UFOs 2 {CT} (RGB)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Swirly-Twirly" models="UFOs 3 {R}{L} (RGB),UFOs 3 {R}{R} (RGB)" name="UFOs 3 {R} (RGB)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Swirly-Twirly" models="Disco Balls {L} (M),Disco Balls {R} (M)" name="Disco Balls (M)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name="House Front Groups Group" GridSize="400" layout="minimalGrid" LayoutGroup="!All Lights" models="Eaves Chase C9 Group (RGBW),Disco Balls (M),EavePixels Group,Swirlies- Snowflakes (WB),Snowfall Spots (W),UFOs All Group (RGB),Rainbow Arch Group (RYOGBV),Wreath (GR),Ridgeline Group">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name="Bushes Groups Group" GridSize="400" layout="minimalGrid" LayoutGroup="Bushes" models="Bushes 1 {S} Rainbow (ROGBV),Bushes 2 {L} Group (MWO),Bushes 2.3 {L} Low (O),Bushes 3 {C} Group (RGBWw),Bushes 4 {D} Group (PW),Bushes 5 {R} ALL Group (RGBWVM),Bushes 5 {R} RGBW Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Forest" name="Trees- Others Group" models="Tree- Big Pixel ,Tree- Big 1 (M),Presents (M),Trees- Tinsel Group (R),Tree- Small {L} (B),Trees- Spiral Group (WWWG)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name="Oddballs Group" GridSize="400" layout="minimalGrid" LayoutGroup="Odddballs" models="Singers- Carolers Flood (RGB),Countdown Timer (B),Disco Balls (M),Lamp Posts (Y),Mailboxes (Y),Religious Group,Tree- Small {L} (B),Snow Group"/>
+    <modelGroup selected="0" name="Nativity Group" GridSize="400" layout="minimalGrid" LayoutGroup="Odddballs" models="Manger Flood {L} (RGB),Star of Bethlehem (W),Swirlies Manger Stars [U02.079 L7.15] (RWB)"/>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="Forest" name="Trees- Tomato by Color Group" models="Trees- Tomato A 1 Red Group (R),Trees- Tomato A 2 Grn Group (G),Trees- Tomato A 3 Blu Group (B),Trees- Tomato A 4 Wht Group (W),Trees- Tomato B Vio Group,Trees- Tomato B Wht Group,Trees- Tomato A+B Wht Indiv Group">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name="All Lights" GridSize="400" layout="minimalGrid" LayoutGroup="!All Lights" models="Bushes Groups Group,House Front Groups Group,Religious Group,Snow Group,Forest Groups Group,Canes + Fence Group,Oddballs Group,Swirlies Group (M)"/>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" name="Forest Groups Group" LayoutGroup="Forest" models="Tree- Big Pixel ,Tree- Big 1 (M),Trees- Spiral Group (WWWG),Trees- Tomato All Groups Group (RGBWVW),Trees- Others Group"/>
+    <modelGroup selected="0" LayoutGroup="Swirly-Twirly" GridSize="400" layout="minimalGrid" models="Disco Balls (M),UFOs All Group (RGB),Swirlies Candy Canes [U01.092 L5.12] (RG),Swirlies- Oak (RGB),Swirlies- Pine (GO),Swirlies- Driveway (RGB),Swirlies Manger Stars [U02.079 L7.15] (RWB),Swirlies Street [U02.080 L7.16] (M),Lasers Group,Swirlies- Snowflakes (WB),Snowfall Spots (W)" name="Swirlies Group (M)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name="Lasers Group" GridSize="400" layout="minimalGrid" LayoutGroup="Swirly-Twirly" models="Laser- Street (RG),Laser- Driveway (RG)"/>
+    <modelGroup selected="0" name="Pixels View Group" GridSize="400" layout="minimalGrid" LayoutGroup="Pixels" models="Tree- Big Pixel ,Pixels Eaves Group,Pixels Fence Group"/>
+    <modelGroup selected="0" name="Pixels Eaves Group" GridSize="400" layout="minimalGrid" LayoutGroup="Pixels" models="Eave Pixels 1 {L} Horiz,Eave Pixels 2 {L} Diag,Eave Pixels 3 {R} Diag,Eave Pixels 4 {R} Horiz"/>
+    <modelGroup selected="0" name="Pixels Fence Group" GridSize="400" layout="minimalGrid" LayoutGroup="Pixels" models="Fence 1 LeftSide,Fence 2 Left Front Corner,Fence 3 Front Left Corner,Fence 4 Front,Fence 5 Diagonal,Fence 6 Right Driveway"/>
+    <modelGroup selected="0" models="CandyCane01-R1,CandyCane02-G2,CandyCane03-R3,CandyCane04-G4" GridSize="400" layout="minimalGrid" LayoutGroup="Cane &amp; Pixel Fence" name="Candy Canes Seq Group (RGRG)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name="Singers" GridSize="400" layout="minimalGrid" LayoutGroup="Singers" models="Singers- Snow Globe (Ww),Singers- Carolers Flood (RGB),Singers- Penguins,Singers- Snowman (New) (W)"/>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="!All Lights" name="Color RED Group" models="Trees- Tomato A 1 Red Group (R),Trees- Tinsel Group (R),Eaves Chase C9 1 (R),CandyCane01-R1,CandyCane03-R3,Bushes 3.1 {C} M5 (R),Bushes 5.1 {R} C9 (R),Rainbow Rope Arch 1 (R),Wreath 2 Berries (R),Wreath 5 Berries (R)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="!All Lights" models="Color RED Group,Color GRN Group,Color BLU Group,Color WHT Group,Color VIO Group,Color MULTI Group,Color ORN Group" GridSize="400" layout="minimalGrid" name="Color  Groups Group">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="!All Lights" name="Color GRN Group" models="Trees- Tomato A 2 Grn Group (G),Eaves Chase C9 2 (G),CandyCane02-G2,CandyCane04-G4,Bushes 3.2 {C} M5 (G),Bushes 5.3 {R} C9 (G),Rainbow Rope Arch 4 (G),Wreath 1 Leaves (G)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="!All Lights" name="Color BLU Group" models="Trees- Tomato A 3 Blu Group (B),Tree- Small {L} (B),Eaves Chase C9 3 (B),Bushes 3.3 {C} M5 (B),Bushes 5.2 {R} C9 (B)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="!All Lights" name="Color WHT Group" models="Trees- Tomato A+B Wht Indiv Group,Eaves Chase C9 4 (W),Bushes White Group,Trees- Spiral Group (WWWG),Snow Group,Star of Bethlehem (W)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="!All Lights" name="Color VIO Group" models="Trees- Tomato B Vio Group,Bushes 4.1 {D} (Pink),Bushes 5.5 {R} C9 (V),Rainbow Rope Arch 6 (V)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" GridSize="400" layout="minimalGrid" LayoutGroup="!All Lights" name="Color MULTI Group" models="Tree- Big 1 (M),Bushes 1 {S} Rainbow (ROGBV),Bushes 2.1 {L} (M),Bushes 5.6 {R} C9 (M),Rainbow Arch Group (RYOGBV),Swirlies Group (M)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="By Controller" GridSize="400" layout="minimalGrid" name="xLOR#1 In Garage [USB L1.01-16]" models="Eaves Chase C9 1 (R),Eaves Chase C9 2 (G),Eaves Chase C9 3 (B),Eaves Chase C9 4 (W),Master Power Low,Bushes 4.1 {D} (Pink),Bushes 4.2 {D} (W),Disco Balls (M),z_BAD TRIAC [L1.09],UFOs 3 {R} (RGB),Snow Lake with Deer (W),Master Power High,Wreath Leaves (G),Wreath Berries (R),Security Lights (W),Snowfall Spots (W)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="By Controller" GridSize="400" layout="minimalGrid" name="xRenard- Trees- Tomato Row A [U01.001-032]" models="Tree- Tomato A1 Group (RGBW),Tree- Tomato A2 Group (RGBW),Tree- Tomato A3 Group (RGBW),Tree- Tomato A4 Group (RGBW),Tree- Tomato A5 Group (RGBW),Tree- Tomato A6 Group (RGBW),Tree- Tomato A7 Group (RGBW),Tree- Tomato A8 Group (RGBW)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="By Controller" GridSize="400" layout="minimalGrid" name="xLOR#2 Trees- Tomato Row B [U01.033-048]" models="Tree- Tomato B1.1 {L} (V),Tree- Tomato B1.2 {L} (W),Tree- Tomato B2.1 (V),Tree- Tomato B2.2 (W),Tree- Tomato B3.1 (V),Tree- Tomato B3.2 (W),Tree- Tomato B4.1 {CL} (V),Tree- Tomato B4.2 {CL} (W),Tree- Tomato B5.1 {CR} (V),Tree- Tomato B5.2 {CR} (W),Tree- Tomato B6.1 (V),Tree- Tomato B6.2 (W),Tree- Tomato B7.1 (V),Tree- Tomato B7.2 (W),Tree- Tomato B8.1 {R} (V),Tree- Tomato B8.2 {R} (W)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="By Controller" GridSize="400" layout="minimalGrid" name="xLOR#3 Behind the SnowGlobe [U01.049-064]" models="Tree- Big 1 (M),Tree- Big 2 [U01.050 L3.02] (M),Tree- Tinsel 1 {L} (R),Tree- Tinsel 2 {R} (R),Tree- Small {L} (B),Yule Log (O),Presents (M),z_Spare [U01.056 L3.08],z_Spare [U01.057 L3.09],Singers- Snow Globe (Ww),Singers- Penguins,z_Spare [U01.060 L3.12],Candy Canes 1 (R),Candy Canes 2 (G),Candy Canes 3 (R),Candy Canes 4 (G)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="By Controller" GridSize="400" layout="minimalGrid" name="xLOR#4 Behind the Left Bushes [U01.065-080]" models="Tree- Spiral 1 {L} (W),Tree- Spiral 2 {F} (W),Tree- Spiral 3 {R} (W),Tree- Spiral 4 {B} (G),z_Spare [L4.05],z_Spare [L4.06],Bushes 1 {S} Rainbow (ROGBV),Bushes 2.1 {L} (M),Bushes 2.2 {L} (W),Bushes 2.3 {L} Low (O),UFOs 1 {L} (RGB),UFOs 2 {CT} (RGB),z_Spare [L4.13],Singers- Snowman (New) (W),Peace Sign (RGB),Menorah (B)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="By Controller" GridSize="400" layout="minimalGrid" name="xLOR#5 Behind the Center Bushes [U01.081-096]" models="Bushes 3.1 {C} M5 (R),Bushes 3.2 {C} M5 (G),Bushes 3.3 {C} M5 (B),Bushes 3.4 {C} M5 (Ww),Rainbow Rope Arch 1 (R),Rainbow Rope Arch 2 (O),Rainbow Rope Arch 3 (Y),Rainbow Rope Arch 4 (G),Rainbow Rope Arch 5 (B),Rainbow Rope Arch 6 (V),Swirlies- Snowflakes (WB),Swirlies Candy Canes [U01.092 L5.12] (RG),Countdown Timer (B),Yellow Snow [U01.094 L5.14] (Y),Mailboxes (Y),Lamp Posts (Y)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="By Controller" GridSize="400" layout="minimalGrid" name="xChinese27 In Garage 12Volts [U02.001-027]" models="Festivus Pole Flood (RGB),Manger Flood {L} (RGB),Manger Flood {R} [U02.007-010 C1.07-10] (RGB),Singers- Carolers Flood (RGB),Roof Ridgeline {L} (RGB),Roof Ridgeline {R} (RGB)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="By Controller" GridSize="400" layout="minimalGrid" name="xLOR#7 Behind the Right Bushes [U02.065-080]" models="Bushes 5.1 {R} C9 (R),Bushes 5.3 {R} C9 (G),Bushes 5.2 {R} C9 (B),Bushes 5.4 {R} C9 (W),Bushes 5.5 {R} C9 (V),Bushes 5.6 {R} C9 (M),Laser- Street (RG),Laser- Driveway (RG),Laser- Spare,Star of Bethlehem (W),Swirlies- Spare,Swirlies- Driveway (RGB),Swirlies- Pine (GO),Swirlies- Oak (RGB),Swirlies Manger Stars [U02.079 L7.15] (RWB),Swirlies Street [U02.080 L7.16] (M)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Unassigned" GridSize="400" layout="minimalGrid" models="Snow Lake (W),Deer 1,Deer 2" name="Snow Lake with Deer (W)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name="Color ORN Group" LayoutGroup="Unassigned" GridSize="400" layout="minimalGrid" models="Bushes 2.3 {L} Low (O),Mailboxes (Y),Rainbow Rope Arch 2 (O),Rainbow Rope Arch 3 (Y),Yellow Snow [U01.094 L5.14] (Y),Yule Log (O)">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" LayoutGroup="Unassigned" models="Snowflake 1 Boscoyo 16 Diamond,Snowflake 2 Boscoyo 16 2 prong,Snowflake 3 Boscoyo 16 3 prong,Snowflake 4 Boscoyo 16 Diamond" GridSize="400" layout="minimalGrid" name="Snowflakes Boscoyo 16">
+      <ControllerConnection/>
+    </modelGroup>
+    <modelGroup selected="0" name="Trees- ALL Groups Group" LayoutGroup="Unassigned" GridSize="400" layout="minimalGrid" models="Trees- Tomato All Groups Group (RGBWVW),Trees- Spiral Group (WWWG),Trees- Tinsel Group (R),Trees- Others Group,Presents (M)">
+      <ControllerConnection/>
+    </modelGroup>
+  </modelGroups>
+  <layoutGroups>
+    <layoutGroup name="Forest" backgroundImage="/home/wizard/Documents/xLights/2019/WizLights/Images/House2018.png" backgroundBrightness="30" backgroundAlpha="100" PaneWidth="1280" PaneHeight="723" PosX="167" PosY="144"/>
+    <layoutGroup name="Cane &amp; Pixel Fence" backgroundImage="/home/wizard/Documents/xLights/2019/WizLights/Images/House2018.png" backgroundBrightness="20" backgroundAlpha="100" PosX="320" PosY="158" PaneWidth="1280" PaneHeight="723"/>
+    <layoutGroup name="Eaves" PosX="320" PosY="158" backgroundImage="" PaneWidth="1280" PaneHeight="723"/>
+    <layoutGroup name="Bushes" backgroundImage="/home/wizard/Documents/xLights/2019/WizLights/Images/House2018.png" backgroundBrightness="30" backgroundAlpha="100" PosX="320" PosY="158" PaneWidth="1280" PaneHeight="723"/>
+    <layoutGroup name="Swirly-Twirly" backgroundImage="/home/wizard/Documents/xLights/2019/WizLights/Images/House2018.png" backgroundBrightness="30" backgroundAlpha="100" PosX="320" PosY="158" PaneWidth="1280" PaneHeight="723"/>
+    <layoutGroup name="Singers" backgroundImage="/home/wizard/Documents/xLights/2019/WizLights/Images/House2018.png" backgroundBrightness="30" backgroundAlpha="100" PosX="320" PosY="158" PaneWidth="1280" PaneHeight="723"/>
+    <layoutGroup name="Odddballs" backgroundImage="" PaneWidth="1280" PaneHeight="720"/>
+    <layoutGroup name="!All Lights" PaneWidth="1280" PaneHeight="720"/>
+    <layoutGroup name="Pixels" PaneWidth="1280" PaneHeight="720"/>
+    <layoutGroup name="Song Parts" PaneWidth="1280" PaneHeight="720"/>
+    <layoutGroup name="By Controller" backgroundImage="W:\!ActiveDocuments\Christmas\xLights\2019\WizLights\Images\Betty'sHouseOverhead.png" PaneWidth="1280" PaneHeight="720" PosX="486" PosY="256"/>
+  </layoutGroups>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=2099196;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=2115581;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=1966;floaty=23;floatw=911;floath=726|name=EffectAssist;caption=Effect Assist;state=2099196;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=600;besth=400;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=600;floath=400|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=164;besth=153;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=394;besth=833;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=367;besth=277;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1090;besth=545;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=590;besth=1180;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=275;besth=360;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=250;besth=274;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=280;besth=474;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=280;besth=191;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=0;floaty=0;floatw=288;floath=215|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=122;besth=59;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=349|dock_size(1,0,0)=136|dock_size(5,0,0)=124|" version="2.0"/>
+    <perspective name="Wiz 1" settings="layout2|name=ModelPreview;caption=Model Preview;state=2099197;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=1926;floaty=732;floatw=266;floath=289|name=HousePreview;caption=House Preview;state=2099197;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=1920;floaty=9;floatw=911;floath=726|name=EffectAssist;caption=Effect Assist;state=2099197;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=2185;floaty=736;floatw=266;floath=289|name=DisplayElements;caption=Display Elements;state=2115581;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=600;besth=400;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=3006;floaty=360;floatw=600;floath=400|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=164;besth=153;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099197;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=394;besth=833;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=3510;floaty=87;floatw=410;floath=872|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=367;besth=277;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1090;besth=545;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=590;besth=1180;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099197;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=275;besth=360;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=2831;floaty=16;floatw=291;floath=399|name=LayerTiming;caption=Layer Blending;state=2099197;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=250;besth=274;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=3130;floaty=14;floatw=266;floath=313|name=LayerSettings;caption=Layer Settings;state=2099197;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=280;besth=474;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=2826;floaty=444;floatw=296;floath=513|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=280;besth=191;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=0;floaty=0;floatw=288;floath=215|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=122;besth=59;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=124|" version="2.0"/>
+    <perspective name="By Controller" settings="layout2|name=ModelPreview;caption=Model Preview;state=2099197;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=2892;floaty=501;floatw=266;floath=289|name=HousePreview;caption=House Preview;state=2099197;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=1966;floaty=23;floatw=911;floath=726|name=EffectAssist;caption=Effect Assist;state=2099197;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=2010;floaty=748;floatw=266;floath=289|name=DisplayElements;caption=Display Elements;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=600;besth=400;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=600;floath=400|name=Perspectives;caption=Perspectives;state=2115581;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=164;besth=153;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=2400;floaty=589;floatw=397;floath=313|name=Effect;caption=Effect Settings;state=2099197;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=394;besth=833;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=3510;floaty=87;floatw=410;floath=872|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=367;besth=277;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1090;besth=545;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=590;besth=1180;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099197;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=275;besth=360;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=2886;floaty=50;floatw=291;floath=399|name=LayerTiming;caption=Layer Blending;state=2099197;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=250;besth=274;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=3196;floaty=60;floatw=266;floath=313|name=LayerSettings;caption=Layer Settings;state=2099197;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=280;besth=474;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=3184;floaty=391;floatw=296;floath=513|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=280;besth=191;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=0;floaty=0;floatw=288;floath=215|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=122;besth=59;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(5,0,0)=124|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <backgroundImage value="W:\!ActiveDocuments\xLights\2019\WizLights\Images\Betty'sHouseOverhead.png"/>
+    <backgroundBrightness value="10"/>
+    <backgroundAlpha value="50"/>
+    <fseqDir value="W:\!ActiveDocuments\Christmas\xLights\2019\WizLights"/>
+    <renderCacheDir value="W:\!ActiveDocuments\Christmas\xLights\2019\WizLights"/>
+    <backupDir value="W:\!ActiveDocuments\Christmas\xLights\2019\WizLights"/>
+    <storedLayoutGroup value="All Models"/>
+    <previewWidth value="1280"/>
+    <previewHeight value="720"/>
+  </settings>
+  <colors>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="0" Blue="0"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="0"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <Timing1 Red="255" Green="128" Blue="128"/>
+    <Timing2 Red="255" Green="255" Blue="128"/>
+    <Timing3 Red="128" Green="255" Blue="128"/>
+    <Timing4 Red="128" Green="255" Blue="255"/>
+    <Timing5 Red="255" Green="128" Blue="255"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints>
+    <Camera name="Good view of everything" posX="0.000000" posY="0.000000" posZ="0.000000" angleX="23.000000" angleY="12.000000" distance="-2000.000000" zoom="0.873269" panx="-73.731407" pany="0.000000" panz="-15.672086" zoom_corrx="0.000000" zoom_corry="0.000000" is_3d="1"/>
+  </Viewpoints>
+</xrgb>

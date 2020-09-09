@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="ROTHAR">
+  <network ComPort="10.3.6.188" BaudRate="1" NetworkType="E131" SuppressDuplicates="Yes" Description="APix16 RS-485 #1 {L} -Ren32+ &amp;amp; LOR2-5" MaxChannels="128" AutoStartChannels="false"/>
+  <network ComPort="10.3.6.188" BaudRate="2" NetworkType="E131" SuppressDuplicates="Yes" Description="APix16 RS-485 #2 {R) Chi27 &amp;amp; LOR6-7" MaxChannels="128" AutoStartChannels="false"/>
+  <network ComPort="10.3.6.188" BaudRate="3" NetworkType="E131" Enabled="No" SuppressDuplicates="Yes" Description="APix16 RS-485 #3" MaxChannels="16" AutoStartChannels="false"/>
+  <network ComPort="COM1" BaudRate="250000" Id="1" NetworkType="OpenDMX" SuppressDuplicates="Yes" Description="LOR USB Dongle" MaxChannels="16"/>
+  <network ComPort="10.3.6.188" BaudRate="4" NetworkType="E131" Description="APix16 Out #01 Eave Pixels 1 {L} Horiz" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="10.3.6.188" BaudRate="6" NetworkType="E131" Description="APix16 Out #02 Eave Pixels 2 {L} Diag" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="10.3.6.188" BaudRate="8" NetworkType="E131" Description="APix16 Out #03 Eave Pixels 3 {R} Diag" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="10.3.6.188" BaudRate="10" NetworkType="E131" Description="APix16 Out #04 Eave Pixels 4 {R} Horiz" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="10.3.6.188" BaudRate="12" NetworkType="E131" SuppressDuplicates="Yes" Description="APix16 Out #05 Big Pixel Tree and Star" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="10.3.6.188" BaudRate="14" NetworkType="E131" SuppressDuplicates="Yes" Description="APix16 Out #06 Star of David and Wheel of Dharma" MaxChannels="510" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="10.3.6.188" BaudRate="16" NetworkType="E131" SuppressDuplicates="Yes" Description="APix16 Out #07 Snowflakes" MaxChannels="432" NumUniverses="2" AutoStartChannels="false"/>
+  <network ComPort="10.3.6.189" BaudRate="37" NetworkType="E131" Description="APix4 Out #1 Pixel Fence" MaxChannels="510" NumUniverses="4" AutoStartChannels="false"/>
+</Networks>
